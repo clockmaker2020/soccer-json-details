@@ -2,10 +2,11 @@ name: Update JSON Details
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # ✅ 매일 자정(00:00 UTC)에 실행 (한국시간 오전 9시)
+    - cron: "0 0 * * *"  # ✅ 매일 자정(UTC 기준) 실행 (한국 시간 오전 9시)
   push:
     branches:
       - test
+  workflow_dispatch:  # ✅ 수동 실행 옵션 추가
 
 jobs:
   update-json:

@@ -6,7 +6,10 @@ on:
   push:
     branches:
       - test
-  workflow_dispatch:  # ✅ 수동 실행 옵션 추가
+  workflow_dispatch:  # ✅ 수동 실행 가능하도록 추가
+
+permissions:  # ✅ GitHub Actions에 푸시 권한 부여
+  contents: write
 
 jobs:
   update-json:
@@ -33,4 +36,4 @@ jobs:
           git config --global user.email "actions@github.com"
           git add data/
           git commit -m "Auto-update JSON details" || echo "No changes to commit"
-          git push
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:test

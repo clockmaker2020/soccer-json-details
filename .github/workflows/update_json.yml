@@ -19,6 +19,11 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      - name: Reset Git Changes  # ✅ Git 충돌 방지
+        run: |
+          git reset --hard HEAD
+          git clean -fd
+
       - name: Set up Python
         uses: actions/setup-python@v3
         with:

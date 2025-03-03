@@ -57,8 +57,8 @@ for fixture in fixtures:
     utc_time = datetime.strptime(fixture["date"], "%Y-%m-%dT%H:%M:%S%z")
     kst_time = utc_time + timedelta(hours=9)
 
-    # ✅ 저장할 경기 정보 (1, 2, 3 소제목 반영)
-    match_json = {
+    # ✅ 경기 개요 + 경기 예상 정보 (변하지 않는 데이터)
+    match_static_json = {
         "1. 경기 개요": {
             "경기 ID": match_id,
             "경기 날짜": kst_time.strftime("%Y-%m-%d %H:%M"),
@@ -84,6 +84,11 @@ for fixture in fixtures:
             "부상 선수": fetch_data(f"https://v3.football.api-sports.io/injuries?league={LEAGUE_ID}&season={SEASON}"),
             "예상 선발": fetch_data(f"https://v3.football.api-sports.io/fixtures/lineups?fixture={match_id}")
         },
+        "블로그 URL": ""
+    }
+
+    # ✅ 실시간 경기 정보 (업데이트 시만 갱신)
+    match_live_json = {
         "3. 실시간 경기 정보": {
             "현재 점수": f"{match_data['goals']['home']} - {match_data['goals']['away']}",
             "득점 기록": match_data["score"]["fulltime"],
@@ -103,13 +108,18 @@ for fixture in fixtures:
                 }
                 for stat in stats
             }
-        },
-        "블로그 URL": ""
+        }
     }
 
-    # ✅ JSON 파일 저장
-    match_path = os.path.join(DATA_DIR, f"match_{kst_time.strftime('%Y%m%d_%H%M')}.json")
-    with open(match_path, "w", encoding="utf-8") as file:
-        json.dump(match_json, file, indent=4, ensure_ascii=False)
+    # ✅ JSON 파일 저장 (두 개의 JSON으로 분리)
+    static_path = os.path.join(DATA_DIR, f"match_{kst_time.strftime('%Y%m%d_%H%M')}.json")
+    live_path = os.path.join(DATA_DIR, f"match_{kst_time.strftime('%Y%m%d_%H%M')}_live.json")
 
-    print(f"✅ 경기 상세 정보 저장 완료: {match_path}")
+    with open(static_path, "w", encoding="utf-8") as file:
+        json.dump(match_static_json, file, indent=4, ensure_ascii=False)
+
+    with open(live_path, "w", encoding="utf-8") as file:
+        json.dump(match_live_json, file, indent=4, ensure_ascii=False)
+
+    print(f"✅ 경기 개요 저장 완료: {static_path}")
+    print(f"✅ 실시간 데이터 저장 완료: {live_path}")

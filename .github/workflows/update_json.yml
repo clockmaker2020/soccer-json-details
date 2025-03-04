@@ -2,13 +2,13 @@ name: Update JSON Details
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # ✅ 매일 자정(UTC 기준) 실행 (한국 시간 오전 9시)
+    - cron: "0 * * * *"  # ✅ 매시간 정각(UTC 기준) 실행 (한국 시간 +9시간 적용)
   push:
     branches:
       - test
   workflow_dispatch:  # ✅ 수동 실행 가능하도록 추가
 
-permissions:  # ✅ GitHub Actions에 푸시 권한 부여
+permissions:
   contents: write
 
 jobs:
@@ -18,6 +18,16 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+
+      - name: Check Date (Stop After Specific Date)  # ✅ 특정 날짜 이후 실행 중지
+        run: |
+          END_DATE="2025-03-31"  # ✅ 실행 종료 날짜 (YYYY-MM-DD)
+          CURRENT_DATE=$(date -u +"%Y-%m-%d")
+
+          if [[ "$CURRENT_DATE" > "$END_DATE" ]]; then
+            echo "✅ 업데이트 기간이 종료되었습니다. 워크플로우를 중단합니다."
+            exit 0
+          fi
 
       - name: Reset Git Changes  # ✅ Git 충돌 방지
         run: |

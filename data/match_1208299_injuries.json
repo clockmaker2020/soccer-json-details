@@ -978,6 +978,12 @@
         "소속팀": "Manchester City"
     },
     {
+        "선수": "N. Ake",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-08",
+        "소속팀": "Manchester City"
+    },
+    {
         "선수": "Rodri",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-08",
@@ -986,12 +992,6 @@
     {
         "선수": "J. Stones",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-08",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "N. Ake",
-        "부상 부위": "Questionable",
         "부상 날짜": "2025-03-08",
         "소속팀": "Manchester City"
     },

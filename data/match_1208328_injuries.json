@@ -1674,18 +1674,6 @@
         "소속팀": "Ipswich"
     },
     {
-        "선수": "J. Enciso",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-08",
-        "소속팀": "Ipswich"
-    },
-    {
-        "선수": "O. Hutchinson",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-08",
-        "소속팀": "Ipswich"
-    },
-    {
         "선수": "C. Ogbene",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-08",
@@ -1698,14 +1686,8 @@
         "소속팀": "Ipswich"
     },
     {
-        "선수": "C. Walton",
+        "선수": "A. Tuanzebe",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-08",
-        "소속팀": "Ipswich"
-    },
-    {
-        "선수": "C. Burgess",
-        "부상 부위": "Questionable",
         "부상 날짜": "2025-03-08",
         "소속팀": "Ipswich"
     },
@@ -1716,13 +1698,13 @@
         "소속팀": "Ipswich"
     },
     {
-        "선수": "K. Phillips",
+        "선수": "J. Enciso",
         "부상 부위": "Questionable",
         "부상 날짜": "2025-03-08",
         "소속팀": "Ipswich"
     },
     {
-        "선수": "A. Tuanzebe",
+        "선수": "O. Hutchinson",
         "부상 부위": "Questionable",
         "부상 날짜": "2025-03-08",
         "소속팀": "Ipswich"
@@ -1741,12 +1723,6 @@
     },
     {
         "선수": "M. Cunha",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-08",
-        "소속팀": "Wolves"
-    },
-    {
-        "선수": "R. Gomes",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-08",
         "소속팀": "Wolves"
@@ -1772,6 +1748,12 @@
     {
         "선수": "Y. Mosquera",
         "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-08",
+        "소속팀": "Wolves"
+    },
+    {
+        "선수": "R. Gomes",
+        "부상 부위": "Questionable",
         "부상 날짜": "2025-03-08",
         "소속팀": "Wolves"
     }

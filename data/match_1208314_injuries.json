@@ -1146,9 +1146,33 @@
         "소속팀": "Fulham"
     },
     {
-        "선수": "A. Traore",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-03-08",
-        "소속팀": "Fulham"
+        "선수": "Gabriel Jesus",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-09",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "K. Havertz",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-09",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "G. Martinelli",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-09",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "B. Saka",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-09",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "T. Tomiyasu",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-09",
+        "소속팀": "Arsenal"
     }
 ]

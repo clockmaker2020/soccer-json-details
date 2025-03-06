@@ -1,5 +1,35 @@
 [
     {
+        "선수": "N. Broadhead",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-17",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "H. Clarke",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-17",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "J. Donacien",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-17",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "G. Hirst",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-17",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "C. Humphreys",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-08-17",
+        "소속팀": "Ipswich"
+    },
+    {
         "선수": "L. Chiwome",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-08-17",
@@ -24,58 +54,40 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "G. Bazunu",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-08-17",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "A. Lallana",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2024-08-17",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "R. Stewart",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2024-08-17",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "K. Sulemana",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2024-08-17",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "G. Bazunu",
+        "선수": "N. Broadhead",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-08-24",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "A. Lallana",
-        "부상 부위": "Questionable",
+        "선수": "W. Burns",
+        "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-08-24",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "J. Larios",
-        "부상 부위": "Questionable",
+        "선수": "H. Clarke",
+        "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-08-24",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "R. Stewart",
-        "부상 부위": "Questionable",
+        "선수": "J. Donacien",
+        "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-08-24",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "K. Sulemana",
-        "부상 부위": "Questionable",
+        "선수": "G. Hirst",
+        "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-08-24",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "K. Phillips",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-24",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "L. Chiwome",
@@ -102,22 +114,34 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "G. Bazunu",
+        "선수": "N. Broadhead",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-08-31",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "R. Stewart",
+        "선수": "W. Burns",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-08-31",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "K. Sulemana",
-        "부상 부위": "Questionable",
+        "선수": "H. Clarke",
+        "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-08-31",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "J. Donacien",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-31",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "G. Hirst",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-31",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "L. Chiwome",
@@ -144,16 +168,22 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "G. Bazunu",
+        "선수": "N. Broadhead",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-09-14",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "K. Sulemana",
+        "선수": "H. Clarke",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-09-14",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "J. Donacien",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-09-14",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "L. Chiwome",
@@ -216,76 +246,22 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "G. Bazunu",
+        "선수": "J. Donacien",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-09-21",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "J. Stephens",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-09-21",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "K. Sulemana",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-09-21",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "W. Smallbone",
+        "선수": "N. Broadhead",
         "부상 부위": "Questionable",
         "부상 날짜": "2024-09-21",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "G. Bazunu",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-09-30",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "J. Stephens",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-09-30",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "K. Sulemana",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-09-30",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "W. Smallbone",
+        "선수": "H. Clarke",
         "부상 부위": "Questionable",
-        "부상 날짜": "2024-09-30",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "G. Bazunu",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-05",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "W. Smallbone",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-05",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "J. Stephens",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-05",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "K. Sulemana",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-05",
-        "소속팀": "Southampton"
+        "부상 날짜": "2024-09-21",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "L. Chiwome",
@@ -324,22 +300,52 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "G. Bazunu",
+        "선수": "J. Donacien",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-19",
-        "소속팀": "Southampton"
+        "부상 날짜": "2024-10-05",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "J. Stephens",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-19",
-        "소속팀": "Southampton"
+        "선수": "N. Broadhead",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-10-05",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "R. Stewart",
+        "선수": "J. Cajuste",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-10-05",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "J. Donacien",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-10-19",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "M. Luongo",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-19",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "A. Tuanzebe",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-19",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "A. Al-Hamadi",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-10-19",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "J. Cajuste",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-10-19",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "L. Chiwome",
@@ -384,6 +390,36 @@
         "소속팀": "Wolves"
     },
     {
+        "선수": "J. Donacien",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-26",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "J. Greaves",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-26",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "M. Luongo",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-26",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "A. Tuanzebe",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-26",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "B. Johnson",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-10-26",
+        "소속팀": "Ipswich"
+    },
+    {
         "선수": "L. Chiwome",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-10-26",
@@ -426,52 +462,40 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "G. Bazunu",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-26",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "R. Fraser",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-26",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "W. Smallbone",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-26",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "R. Stewart",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-26",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "G. Bazunu",
+        "선수": "H. Clarke",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-02",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "W. Smallbone",
+        "선수": "J. Donacien",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-02",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "R. Stewart",
+        "선수": "J. Greaves",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-02",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "R. Fraser",
-        "부상 부위": "Questionable",
+        "선수": "C. Ogbene",
+        "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-02",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "J. Taylor",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-02",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "A. Tuanzebe",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-02",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "L. Chiwome",
@@ -552,28 +576,28 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "G. Bazunu",
+        "선수": "J. Donacien",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-09",
-        "소속팀": "Southampton"
+        "부상 날짜": "2024-11-10",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "W. Smallbone",
+        "선수": "J. Greaves",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-09",
-        "소속팀": "Southampton"
+        "부상 날짜": "2024-11-10",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "R. Stewart",
+        "선수": "C. Ogbene",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-09",
-        "소속팀": "Southampton"
+        "부상 날짜": "2024-11-10",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "R. Fraser",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2024-11-09",
-        "소속팀": "Southampton"
+        "선수": "J. Taylor",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-10",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "L. Chiwome",
@@ -618,76 +642,70 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "G. Bazunu",
+        "선수": "J. Donacien",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-24",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "J. Bednarek",
+        "선수": "G. Hirst",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-24",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "A. Ramsdale",
+        "선수": "C. Ogbene",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-24",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "W. Smallbone",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-24",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "R. Stewart",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-24",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "G. Bazunu",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-29",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "J. Bednarek",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-29",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "A. Lallana",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-29",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "A. Ramsdale",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-29",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "W. Smallbone",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-29",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "R. Stewart",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-29",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "P. Onuachu",
+        "선수": "N. Broadhead",
         "부상 부위": "Questionable",
-        "부상 날짜": "2024-11-29",
-        "소속팀": "Southampton"
+        "부상 날짜": "2024-11-24",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "J. Greaves",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-11-24",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "K. Phillips",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-11-24",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "J. Donacien",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-30",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "G. Hirst",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-30",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "C. Ogbene",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-30",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "B. Johnson",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-11-30",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "K. Phillips",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-11-30",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "L. Chiwome",
@@ -724,6 +742,30 @@
         "부상 부위": "Questionable",
         "부상 날짜": "2024-11-30",
         "소속팀": "Wolves"
+    },
+    {
+        "선수": "J. Donacien",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-03",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "G. Hirst",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-03",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "C. Ogbene",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-03",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "A. Tuanzebe",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-03",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "L. Chiwome",
@@ -762,124 +804,28 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "G. Bazunu",
+        "선수": "J. Donacien",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-04",
-        "소속팀": "Southampton"
+        "부상 날짜": "2024-12-08",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "T. Dibling",
+        "선수": "G. Hirst",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-04",
-        "소속팀": "Southampton"
+        "부상 날짜": "2024-12-08",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "F. Downes",
+        "선수": "C. Ogbene",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-04",
-        "소속팀": "Southampton"
+        "부상 날짜": "2024-12-08",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "T. Harwood-Bellis",
+        "선수": "A. Tuanzebe",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-04",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "A. Lallana",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-04",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "A. Ramsdale",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-04",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "W. Smallbone",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-04",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "R. Stewart",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-04",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "L. Ugochukwu",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-04",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "J. Bednarek",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2024-12-04",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "P. Onuachu",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2024-12-04",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "G. Bazunu",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-07",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "A. Lallana",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-07",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "J. Larios",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-07",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "P. Onuachu",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-07",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "A. Ramsdale",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-07",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "W. Smallbone",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-07",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "J. Stephens",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-07",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "R. Stewart",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-07",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "J. Bednarek",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2024-12-07",
-        "소속팀": "Southampton"
+        "부상 날짜": "2024-12-08",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "L. Chiwome",
@@ -966,64 +912,58 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "G. Bazunu",
+        "선수": "J. Donacien",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-15",
-        "소속팀": "Southampton"
+        "부상 날짜": "2024-12-14",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "J. Larios",
+        "선수": "G. Hirst",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-15",
-        "소속팀": "Southampton"
+        "부상 날짜": "2024-12-14",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "W. Smallbone",
+        "선수": "C. Ogbene",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-15",
-        "소속팀": "Southampton"
+        "부상 날짜": "2024-12-14",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "J. Stephens",
+        "선수": "A. Tuanzebe",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-15",
-        "소속팀": "Southampton"
+        "부상 날짜": "2024-12-14",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "R. Stewart",
+        "선수": "L. Delap",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-15",
-        "소속팀": "Southampton"
+        "부상 날짜": "2024-12-21",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "A. Ramsdale",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2024-12-15",
-        "소속팀": "Southampton"
+        "선수": "J. Donacien",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-21",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "G. Bazunu",
+        "선수": "G. Hirst",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-22",
-        "소속팀": "Southampton"
+        "부상 날짜": "2024-12-21",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "W. Smallbone",
+        "선수": "C. Ogbene",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-22",
-        "소속팀": "Southampton"
+        "부상 날짜": "2024-12-21",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "J. Stephens",
+        "선수": "A. Tuanzebe",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-22",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "R. Stewart",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-22",
-        "소속팀": "Southampton"
+        "부상 날짜": "2024-12-21",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "R. Ait-Nouri",
@@ -1062,30 +1002,6 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "G. Bazunu",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-26",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "M. Cornet",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-26",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "W. Smallbone",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-26",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "R. Stewart",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-26",
-        "소속팀": "Southampton"
-    },
-    {
         "선수": "E. Gonzalez",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-26",
@@ -1122,28 +1038,40 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "G. Bazunu",
+        "선수": "J. Donacien",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-29",
-        "소속팀": "Southampton"
+        "부상 날짜": "2024-12-27",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "W. Smallbone",
+        "선수": "G. Hirst",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-29",
-        "소속팀": "Southampton"
+        "부상 날짜": "2024-12-27",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "J. Stephens",
+        "선수": "S. Morsy",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-29",
-        "소속팀": "Southampton"
+        "부상 날짜": "2024-12-27",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "R. Stewart",
+        "선수": "C. Ogbene",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-29",
-        "소속팀": "Southampton"
+        "부상 날짜": "2024-12-27",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "A. Tuanzebe",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-27",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "M. Luongo",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-12-27",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "E. Gonzalez",
@@ -1182,40 +1110,70 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "G. Bazunu",
+        "선수": "J. Donacien",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-04",
-        "소속팀": "Southampton"
+        "부상 날짜": "2024-12-30",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "M. Fernandes",
+        "선수": "G. Hirst",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-04",
-        "소속팀": "Southampton"
+        "부상 날짜": "2024-12-30",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "J. Stephens",
+        "선수": "C. Ogbene",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-04",
-        "소속팀": "Southampton"
+        "부상 날짜": "2024-12-30",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "R. Stewart",
+        "선수": "A. Tuanzebe",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-04",
-        "소속팀": "Southampton"
+        "부상 날짜": "2024-12-30",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "F. Downes",
+        "선수": "M. Luongo",
         "부상 부위": "Questionable",
-        "부상 날짜": "2025-01-04",
-        "소속팀": "Southampton"
+        "부상 날짜": "2024-12-30",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "W. Smallbone",
+        "선수": "C. Chaplin",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-05",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "J. Donacien",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-05",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "G. Hirst",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-05",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "C. Ogbene",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-05",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "A. Tuanzebe",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-05",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "M. Luongo",
         "부상 부위": "Questionable",
-        "부상 날짜": "2025-01-04",
-        "소속팀": "Southampton"
+        "부상 날짜": "2025-01-05",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "M. Cunha",
@@ -1284,34 +1242,52 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "J. Stephens",
+        "선수": "C. Chaplin",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-16",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "R. Stewart",
+        "선수": "C. Ogbene",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-16",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "J. Stephens",
+        "선수": "S. Szmodics",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-16",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "A. Tuanzebe",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-16",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "C. Chaplin",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-19",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "R. Stewart",
+        "선수": "C. Ogbene",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-19",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "T. Dibling",
-        "부상 부위": "Questionable",
+        "선수": "K. Phillips",
+        "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-19",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "S. Szmodics",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-19",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "E. Gonzalez",
@@ -1344,40 +1320,22 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "T. Dibling",
+        "선수": "C. Chaplin",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-25",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "A. Gronbaek",
+        "선수": "C. Ogbene",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-25",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "J. Stephens",
+        "선수": "S. Szmodics",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-25",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "R. Stewart",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-25",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "K. Sulemana",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-25",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "A. Ramsdale",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-01-25",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
         "선수": "E. Gonzalez",
@@ -1410,22 +1368,28 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "R. Stewart",
+        "선수": "W. Burns",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-01",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "R. Fraser",
-        "부상 부위": "Questionable",
+        "선수": "C. Chaplin",
+        "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-01",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "N. Wood",
-        "부상 부위": "Questionable",
+        "선수": "C. Ogbene",
+        "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-01",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "S. Szmodics",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-01",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "L. Chiwome",
@@ -1476,40 +1440,34 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "R. Stewart",
+        "선수": "W. Burns",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-15",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "F. Downes",
-        "부상 부위": "Questionable",
+        "선수": "C. Chaplin",
+        "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-15",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "R. Fraser",
-        "부상 부위": "Questionable",
+        "선수": "C. Ogbene",
+        "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-15",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "T. Harwood-Bellis",
-        "부상 부위": "Questionable",
+        "선수": "C. Walton",
+        "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-15",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "A. Lallana",
+        "선수": "S. Szmodics",
         "부상 부위": "Questionable",
         "부상 날짜": "2025-02-15",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "J. Stephens",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-02-15",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
         "선수": "L. Chiwome",
@@ -1590,28 +1548,40 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "R. Fraser",
+        "선수": "W. Burns",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-22",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "T. Harwood-Bellis",
+        "선수": "C. Chaplin",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-22",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "A. Lallana",
+        "선수": "J. Enciso",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-22",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "R. Stewart",
+        "선수": "C. Ogbene",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-22",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "A. Tuanzebe",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-22",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "C. Walton",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-22",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "E. Agbadou",
@@ -1662,70 +1632,82 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "J. Bednarek",
+        "선수": "W. Burns",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-25",
-        "소속팀": "Southampton"
+        "부상 날짜": "2025-02-26",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "R. Fraser",
+        "선수": "J. Enciso",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-25",
-        "소속팀": "Southampton"
+        "부상 날짜": "2025-02-26",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "A. Lallana",
+        "선수": "C. Ogbene",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-25",
-        "소속팀": "Southampton"
+        "부상 날짜": "2025-02-26",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "R. Stewart",
+        "선수": "C. Walton",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-25",
-        "소속팀": "Southampton"
+        "부상 날짜": "2025-02-26",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "L. Ugochukwu",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-25",
-        "소속팀": "Southampton"
-    },
-    {
-        "선수": "J. Larios",
+        "선수": "C. Chaplin",
         "부상 부위": "Questionable",
-        "부상 날짜": "2025-02-25",
-        "소속팀": "Southampton"
+        "부상 날짜": "2025-02-26",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "J. Bednarek",
+        "선수": "K. Phillips",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-02-26",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "W. Burns",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-08",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "R. Fraser",
+        "선수": "J. Enciso",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-08",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "A. Lallana",
+        "선수": "O. Hutchinson",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-08",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "R. Stewart",
+        "선수": "C. Ogbene",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-08",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "K. Walker-Peters",
+        "선수": "C. Walton",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-08",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "C. Chaplin",
         "부상 부위": "Questionable",
         "부상 날짜": "2025-03-08",
-        "소속팀": "Southampton"
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "K. Phillips",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-03-08",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "E. Agbadou",

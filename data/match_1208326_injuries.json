@@ -1,5 +1,23 @@
 [
     {
+        "선수": "K. Tierney",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-17",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "T. Tomiyasu",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-17",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "F. Vieira",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-08-17",
+        "소속팀": "Arsenal"
+    },
+    {
         "선수": "Chermiti",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-08-17",
@@ -28,12 +46,6 @@
         "부상 부위": "Questionable",
         "부상 날짜": "2024-08-17",
         "소속팀": "Everton"
-    },
-    {
-        "선수": "E. Alvarez",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-08-17",
-        "소속팀": "West Ham"
     },
     {
         "선수": "J. Branthwaite",
@@ -72,6 +84,54 @@
         "소속팀": "Everton"
     },
     {
+        "선수": "Gabriel Jesus",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-24",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "K. Tierney",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-24",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "T. Tomiyasu",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-24",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "F. Vieira",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-08-24",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "Gabriel Jesus",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-31",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "M. Merino",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-31",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "K. Tierney",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-31",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "T. Tomiyasu",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-31",
+        "소속팀": "Arsenal"
+    },
+    {
         "선수": "J. Branthwaite",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-08-31",
@@ -88,18 +148,6 @@
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-08-31",
         "소속팀": "Everton"
-    },
-    {
-        "선수": "A. Cresswell",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-08-31",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "N. Fullkrug",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2024-09-14",
-        "소속팀": "West Ham"
     },
     {
         "선수": "J. Branthwaite",
@@ -132,10 +180,40 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "N. Fullkrug",
+        "선수": "M. Merino",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-09-15",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "M. Odegaard",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-09-15",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "D. Rice",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-09-15",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "K. Tierney",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-09-15",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "T. Tomiyasu",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-09-15",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "R. Calafiori",
         "부상 부위": "Questionable",
-        "부상 날짜": "2024-09-21",
-        "소속팀": "West Ham"
+        "부상 날짜": "2024-09-15",
+        "소속팀": "Arsenal"
     },
     {
         "선수": "A. Broja",
@@ -174,10 +252,64 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "N. Fullkrug",
+        "선수": "M. Merino",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-09-22",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "M. Odegaard",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-09-22",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "K. Tierney",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-09-22",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "T. Tomiyasu",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-09-22",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "O. Zinchenko",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-09-22",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "M. Odegaard",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-05",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "K. Tierney",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-05",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "O. Zinchenko",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-05",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "J. Timber",
         "부상 부위": "Questionable",
         "부상 날짜": "2024-10-05",
-        "소속팀": "West Ham"
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "B. White",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-10-05",
+        "소속팀": "Arsenal"
     },
     {
         "선수": "A. Broja",
@@ -202,12 +334,6 @@
         "부상 부위": "Questionable",
         "부상 날짜": "2024-10-05",
         "소속팀": "Everton"
-    },
-    {
-        "선수": "N. Fullkrug",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-19",
-        "소속팀": "West Ham"
     },
     {
         "선수": "A. Broja",
@@ -240,6 +366,42 @@
         "소속팀": "Everton"
     },
     {
+        "선수": "Neto",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-19",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "M. Odegaard",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-19",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "K. Tierney",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-19",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "T. Tomiyasu",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-19",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "B. Saka",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-10-19",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "J. Timber",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-10-19",
+        "소속팀": "Arsenal"
+    },
+    {
         "선수": "A. Broja",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-10-26",
@@ -264,34 +426,58 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "N. Fullkrug",
+        "선수": "R. Calafiori",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-10-27",
-        "소속팀": "West Ham"
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "M. Kudus",
+        "선수": "M. Odegaard",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-10-27",
-        "소속팀": "West Ham"
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "N. Fullkrug",
+        "선수": "W. Saliba",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-02",
-        "소속팀": "West Ham"
+        "부상 날짜": "2024-10-27",
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "M. Kudus",
+        "선수": "K. Tierney",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-02",
-        "소속팀": "West Ham"
+        "부상 날짜": "2024-10-27",
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "T. Soucek",
+        "선수": "T. Tomiyasu",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-27",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "R. Calafiori",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-02",
-        "소속팀": "West Ham"
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "K. Tierney",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-02",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "T. Tomiyasu",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-02",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "M. Odegaard",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-11-02",
+        "소속팀": "Arsenal"
     },
     {
         "선수": "A. Broja",
@@ -316,24 +502,6 @@
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-02",
         "소속팀": "Everton"
-    },
-    {
-        "선수": "E. Alvarez",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-09",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "N. Fullkrug",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-09",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "M. Kudus",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-09",
-        "소속팀": "West Ham"
     },
     {
         "선수": "A. Broja",
@@ -372,6 +540,48 @@
         "소속팀": "Everton"
     },
     {
+        "선수": "R. Calafiori",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-10",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "R. Sterling",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-10",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "K. Tierney",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-10",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "T. Tomiyasu",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-10",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "K. Tierney",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-23",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "T. Tomiyasu",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-23",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "B. White",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-23",
+        "소속팀": "Arsenal"
+    },
+    {
         "선수": "A. Broja",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-23",
@@ -402,28 +612,16 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "N. Fullkrug",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-25",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "M. Kudus",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-25",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "N. Fullkrug",
+        "선수": "T. Tomiyasu",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-30",
-        "소속팀": "West Ham"
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "M. Kudus",
+        "선수": "B. White",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-30",
-        "소속팀": "West Ham"
+        "소속팀": "Arsenal"
     },
     {
         "선수": "J. Garner",
@@ -450,12 +648,6 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "J. Todibo",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2024-12-03",
-        "소속팀": "West Ham"
-    },
-    {
         "선수": "Chermiti",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-04",
@@ -474,10 +666,82 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "R. Calafiori",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-09",
-        "소속팀": "West Ham"
+        "부상 날짜": "2024-12-04",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "T. Tomiyasu",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-04",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "B. White",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-04",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "Gabriel",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-12-04",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "T. Tomiyasu",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-08",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "B. White",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-08",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "O. Zinchenko",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-08",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "R. Calafiori",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-12-08",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "Gabriel",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-12-08",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "R. Calafiori",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-14",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "T. Tomiyasu",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-14",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "B. White",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-14",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "O. Zinchenko",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-14",
+        "소속팀": "Arsenal"
     },
     {
         "선수": "J. Garner",
@@ -498,28 +762,22 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "M. Antonio",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-16",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "Emerson",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-16",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "M. Antonio",
+        "선수": "T. Tomiyasu",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-21",
-        "소속팀": "West Ham"
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "C. Soler",
+        "선수": "B. White",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-21",
-        "소속팀": "West Ham"
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "O. Zinchenko",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-12-21",
+        "소속팀": "Arsenal"
     },
     {
         "선수": "A. Broja",
@@ -570,16 +828,28 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "B. Saka",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-26",
-        "소속팀": "West Ham"
+        "부상 날짜": "2024-12-27",
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "L. Paqueta",
+        "선수": "R. Sterling",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-26",
-        "소속팀": "West Ham"
+        "부상 날짜": "2024-12-27",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "T. Tomiyasu",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-27",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "B. White",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-27",
+        "소속팀": "Arsenal"
     },
     {
         "선수": "J. Garner",
@@ -606,28 +876,28 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "B. Saka",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-29",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-01-01",
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "L. Fabianski",
+        "선수": "R. Sterling",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-29",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-01-01",
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "G. Rodriguez",
+        "선수": "T. Tomiyasu",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-29",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-01-01",
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "T. Soucek",
+        "선수": "B. White",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-29",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-01-01",
+        "소속팀": "Arsenal"
     },
     {
         "선수": "S. Coleman",
@@ -654,52 +924,34 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "B. Saka",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-04",
-        "소속팀": "West Ham"
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "J. Bowen",
+        "선수": "R. Sterling",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-04",
-        "소속팀": "West Ham"
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "L. Fabianski",
+        "선수": "J. Timber",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-04",
-        "소속팀": "West Ham"
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "T. Tomiyasu",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-14",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-01-04",
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "J. Bowen",
+        "선수": "B. White",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-14",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "N. Fullkrug",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-14",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "J. Todibo",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-14",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "C. Summerville",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-01-14",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-01-04",
+        "소속팀": "Arsenal"
     },
     {
         "선수": "A. Broja",
@@ -738,34 +990,82 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "Gabriel Jesus",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-18",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-01-15",
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "J. Bowen",
+        "선수": "E. Nwaneri",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-18",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-01-15",
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "N. Fullkrug",
+        "선수": "B. Saka",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-18",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-01-15",
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "J. Todibo",
+        "선수": "T. Tomiyasu",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-18",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-01-15",
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "C. Summerville",
+        "선수": "B. White",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-15",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "R. Calafiori",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-01-15",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "Gabriel Jesus",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-18",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "E. Nwaneri",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-18",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "B. Saka",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-18",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "W. Saliba",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-18",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "T. Tomiyasu",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-18",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "B. White",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-18",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "R. Calafiori",
         "부상 부위": "Questionable",
         "부상 날짜": "2025-01-18",
-        "소속팀": "West Ham"
+        "소속팀": "Arsenal"
     },
     {
         "선수": "A. Broja",
@@ -834,40 +1134,40 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "Gabriel Jesus",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-26",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-01-25",
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "J. Bowen",
+        "선수": "M. Merino",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-26",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-01-25",
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "N. Fullkrug",
+        "선수": "M. Odegaard",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-26",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-01-25",
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "K. Mavropanos",
+        "선수": "B. Saka",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-26",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-01-25",
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "J. Todibo",
+        "선수": "T. Tomiyasu",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-26",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-01-25",
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "C. Summerville",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-01-26",
-        "소속팀": "West Ham"
+        "선수": "B. White",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-25",
+        "소속팀": "Arsenal"
     },
     {
         "선수": "A. Broja",
@@ -906,28 +1206,28 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "Gabriel Jesus",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-03",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-02-02",
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "N. Fullkrug",
+        "선수": "B. Saka",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-03",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-02-02",
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "J. Todibo",
+        "선수": "T. Tomiyasu",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-03",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-02-02",
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "C. Summerville",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-02-03",
-        "소속팀": "West Ham"
+        "선수": "B. White",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-02",
+        "소속팀": "Arsenal"
     },
     {
         "선수": "A. Broja",
@@ -972,22 +1272,34 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "Gabriel Jesus",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-15",
-        "소속팀": "West Ham"
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "N. Fullkrug",
+        "선수": "K. Havertz",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-15",
-        "소속팀": "West Ham"
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "C. Summerville",
+        "선수": "G. Martinelli",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-15",
-        "소속팀": "West Ham"
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "B. Saka",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-15",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "T. Tomiyasu",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-15",
+        "소속팀": "Arsenal"
     },
     {
         "선수": "A. Broja",
@@ -1092,34 +1404,34 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "Gabriel Jesus",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-22",
-        "소속팀": "West Ham"
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "N. Fullkrug",
+        "선수": "K. Havertz",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-22",
-        "소속팀": "West Ham"
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "L. Paqueta",
+        "선수": "G. Martinelli",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-22",
-        "소속팀": "West Ham"
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "C. Summerville",
+        "선수": "B. Saka",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-22",
-        "소속팀": "West Ham"
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "V. Coufal",
-        "부상 부위": "Questionable",
+        "선수": "T. Tomiyasu",
+        "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-22",
-        "소속팀": "West Ham"
+        "소속팀": "Arsenal"
     },
     {
         "선수": "A. Broja",
@@ -1158,34 +1470,40 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "Gabriel Jesus",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-27",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-02-26",
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "V. Coufal",
+        "선수": "K. Havertz",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-27",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-02-26",
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "N. Fullkrug",
+        "선수": "M. Lewis-Skelly",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-27",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-02-26",
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "L. Paqueta",
+        "선수": "G. Martinelli",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-27",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-02-26",
+        "소속팀": "Arsenal"
     },
     {
-        "선수": "C. Summerville",
+        "선수": "B. Saka",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-27",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-02-26",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "T. Tomiyasu",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-26",
+        "소속팀": "Arsenal"
     },
     {
         "선수": "A. Broja",

@@ -1458,6 +1458,18 @@
         "소속팀": "Crystal Palace"
     },
     {
+        "선수": "W. Hughes",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-08",
+        "소속팀": "Crystal Palace"
+    },
+    {
+        "선수": "J. Mateta",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-08",
+        "소속팀": "Crystal Palace"
+    },
+    {
         "선수": "C. Riad",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-08",
@@ -1466,12 +1478,6 @@
     {
         "선수": "J. Ward",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-08",
-        "소속팀": "Crystal Palace"
-    },
-    {
-        "선수": "J. Mateta",
-        "부상 부위": "Questionable",
         "부상 날짜": "2025-03-08",
         "소속팀": "Crystal Palace"
     },
@@ -1496,6 +1502,18 @@
     {
         "선수": "R. Stewart",
         "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-08",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "J. Bree",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-03-08",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "J. Larios",
+        "부상 부위": "Questionable",
         "부상 날짜": "2025-03-08",
         "소속팀": "Southampton"
     },

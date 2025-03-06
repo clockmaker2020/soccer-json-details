@@ -1338,6 +1338,24 @@
         "소속팀": "Brentford"
     },
     {
+        "선수": "R. Henry",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-08",
+        "소속팀": "Brentford"
+    },
+    {
+        "선수": "A. Hickey",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-08",
+        "소속팀": "Brentford"
+    },
+    {
+        "선수": "M. Jensen",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-08",
+        "소속팀": "Brentford"
+    },
+    {
         "선수": "C. Norgaard",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-08",
@@ -1354,5 +1372,17 @@
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-08",
         "소속팀": "Brentford"
+    },
+    {
+        "선수": "R. Barkley",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-08",
+        "소속팀": "Aston Villa"
+    },
+    {
+        "선수": "A. Onana",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-08",
+        "소속팀": "Aston Villa"
     }
 ]

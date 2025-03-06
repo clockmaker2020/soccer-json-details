@@ -1114,5 +1114,35 @@
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-27",
         "소속팀": "West Ham"
+    },
+    {
+        "선수": "M. Senesi",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-09",
+        "소속팀": "Bournemouth"
+    },
+    {
+        "선수": "A. Smith",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-09",
+        "소속팀": "Bournemouth"
+    },
+    {
+        "선수": "E. Unal",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-09",
+        "소속팀": "Bournemouth"
+    },
+    {
+        "선수": "I. Zabarnyi",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-09",
+        "소속팀": "Bournemouth"
+    },
+    {
+        "선수": "R. Christie",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-03-09",
+        "소속팀": "Bournemouth"
     }
 ]

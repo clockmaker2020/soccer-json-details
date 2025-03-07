@@ -1332,12 +1332,6 @@
         "소속팀": "West Ham"
     },
     {
-        "선수": "E. Agbadou",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-08",
-        "소속팀": "Wolves"
-    },
-    {
         "선수": "L. Chiwome",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-08",
@@ -1351,12 +1345,6 @@
     },
     {
         "선수": "E. Gonzalez",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-08",
-        "소속팀": "Wolves"
-    },
-    {
-        "선수": "G. Guedes",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-08",
         "소속팀": "Wolves"
@@ -1378,5 +1366,35 @@
         "부상 부위": "Questionable",
         "부상 날짜": "2025-03-08",
         "소속팀": "Wolves"
+    },
+    {
+        "선수": "M. Antonio",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-10",
+        "소속팀": "West Ham"
+    },
+    {
+        "선수": "V. Coufal",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-10",
+        "소속팀": "West Ham"
+    },
+    {
+        "선수": "N. Fullkrug",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-10",
+        "소속팀": "West Ham"
+    },
+    {
+        "선수": "Lucas Paqueta",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-10",
+        "소속팀": "West Ham"
+    },
+    {
+        "선수": "C. Summerville",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-10",
+        "소속팀": "West Ham"
     }
 ]

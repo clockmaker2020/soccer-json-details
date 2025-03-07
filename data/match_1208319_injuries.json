@@ -1434,6 +1434,12 @@
         "소속팀": "Manchester City"
     },
     {
+        "선수": "O. Bobb",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-08",
+        "소속팀": "Manchester City"
+    },
+    {
         "선수": "Rodri",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-08",
@@ -1446,12 +1452,6 @@
         "소속팀": "Manchester City"
     },
     {
-        "선수": "O. Bobb",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-03-08",
-        "소속팀": "Manchester City"
-    },
-    {
         "선수": "I. Fatawu",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-09",
@@ -1459,12 +1459,6 @@
     },
     {
         "선수": "N. Opoku",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-09",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "R. Pereira",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-09",
         "소속팀": "Leicester"

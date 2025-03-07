@@ -1060,5 +1060,65 @@
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-27",
         "소속팀": "West Ham"
+    },
+    {
+        "선수": "M. Antonio",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-10",
+        "소속팀": "West Ham"
+    },
+    {
+        "선수": "V. Coufal",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-10",
+        "소속팀": "West Ham"
+    },
+    {
+        "선수": "N. Fullkrug",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-10",
+        "소속팀": "West Ham"
+    },
+    {
+        "선수": "Lucas Paqueta",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-10",
+        "소속팀": "West Ham"
+    },
+    {
+        "선수": "C. Summerville",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-10",
+        "소속팀": "West Ham"
+    },
+    {
+        "선수": "S. Botman",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-10",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "A. Gordon",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-10",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "L. Hall",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-10",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "A. Isak",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-03-10",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "Joelinton",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-03-10",
+        "소속팀": "Newcastle"
     }
 ]

@@ -1,0 +1,10 @@
+{
+    "홈팀": {
+        "이름": "West Ham",
+        "로고": "https://media.api-sports.io/football/teams/48.png"
+    },
+    "원정팀": {
+        "이름": "Bournemouth",
+        "로고": "https://media.api-sports.io/football/teams/35.png"
+    }
+}

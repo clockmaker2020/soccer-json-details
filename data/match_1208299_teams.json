@@ -1,0 +1,10 @@
+{
+    "홈팀": {
+        "이름": "Nottingham Forest",
+        "로고": "https://media.api-sports.io/football/teams/65.png"
+    },
+    "원정팀": {
+        "이름": "Manchester City",
+        "로고": "https://media.api-sports.io/football/teams/50.png"
+    }
+}

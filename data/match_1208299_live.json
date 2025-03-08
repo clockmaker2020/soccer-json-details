@@ -1,6 +1,6 @@
 {
-    "현재 점수": "0 - 0",
-    "득점 기록": " - ",
+    "현재 점수": "1 - 0",
+    "득점 기록": "1 - 0",
     "주요 경기 이벤트": [
         {
             "이벤트 종류": "Card",
@@ -49,6 +49,42 @@
             "선수": "R. Yates",
             "팀": "Nottingham Forest",
             "시간": 69
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "R. Yates",
+            "팀": "Nottingham Forest",
+            "시간": 77
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "I. Sangare",
+            "팀": "Nottingham Forest",
+            "시간": 80
+        },
+        {
+            "이벤트 종류": "Goal",
+            "선수": "C. Hudson-Odoi",
+            "팀": "Nottingham Forest",
+            "시간": 83
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "C. Hudson-Odoi",
+            "팀": "Nottingham Forest",
+            "시간": 85
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "T. Awoniyi",
+            "팀": "Nottingham Forest",
+            "시간": 87
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "Morato",
+            "팀": "Nottingham Forest",
+            "시간": 87
         }
     ]
 }

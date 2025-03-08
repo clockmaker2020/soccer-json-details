@@ -12,7 +12,43 @@
             "이벤트 종류": "Card",
             "선수": "Nico",
             "팀": "Manchester City",
-            "시간": 33
+            "시간": 32
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "M. Nunes",
+            "팀": "Manchester City",
+            "시간": 56
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "R. Lewis",
+            "팀": "Manchester City",
+            "시간": 61
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "M. Kovacic",
+            "팀": "Manchester City",
+            "시간": 61
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "K. De Bruyne",
+            "팀": "Manchester City",
+            "시간": 69
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "O. Marmoush",
+            "팀": "Manchester City",
+            "시간": 69
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "R. Yates",
+            "팀": "Nottingham Forest",
+            "시간": 69
         }
     ]
 }

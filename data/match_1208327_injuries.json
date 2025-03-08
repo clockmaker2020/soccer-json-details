@@ -846,12 +846,6 @@
         "소속팀": "Liverpool"
     },
     {
-        "선수": "S. Lukic",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-08",
-        "소속팀": "Fulham"
-    },
-    {
         "선수": "R. Nelson",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-08",
@@ -866,6 +860,12 @@
     {
         "선수": "H. Wilson",
         "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-08",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "A. Traore",
+        "부상 부위": "Questionable",
         "부상 날짜": "2025-03-08",
         "소속팀": "Fulham"
     },

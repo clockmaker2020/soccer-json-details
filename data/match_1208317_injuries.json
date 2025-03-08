@@ -1362,19 +1362,7 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "R. Gomes",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-03-08",
-        "소속팀": "Wolves"
-    },
-    {
         "선수": "M. Antonio",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-10",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "V. Coufal",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-10",
         "소속팀": "West Ham"
@@ -1386,14 +1374,14 @@
         "소속팀": "West Ham"
     },
     {
-        "선수": "Lucas Paqueta",
+        "선수": "C. Summerville",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-10",
         "소속팀": "West Ham"
     },
     {
-        "선수": "C. Summerville",
-        "부상 부위": "Missing Fixture",
+        "선수": "V. Coufal",
+        "부상 부위": "Questionable",
         "부상 날짜": "2025-03-10",
         "소속팀": "West Ham"
     }

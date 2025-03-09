@@ -1470,6 +1470,12 @@
         "소속팀": "Leicester"
     },
     {
+        "선수": "A. Anselmino",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-09",
+        "소속팀": "Chelsea"
+    },
+    {
         "선수": "M. Guiu",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-09",
@@ -1488,6 +1494,12 @@
         "소속팀": "Chelsea"
     },
     {
+        "선수": "R. Lavia",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-09",
+        "소속팀": "Chelsea"
+    },
+    {
         "선수": "N. Madueke",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-09",
@@ -1501,12 +1513,6 @@
     },
     {
         "선수": "M. Gusto",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-03-09",
-        "소속팀": "Chelsea"
-    },
-    {
-        "선수": "R. Lavia",
         "부상 부위": "Questionable",
         "부상 날짜": "2025-03-09",
         "소속팀": "Chelsea"

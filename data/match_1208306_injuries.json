@@ -1240,5 +1240,53 @@
         "부상 부위": "Questionable",
         "부상 날짜": "2025-03-10",
         "소속팀": "West Ham"
+    },
+    {
+        "선수": "A. Broja",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-15",
+        "소속팀": "Everton"
+    },
+    {
+        "선수": "O. Mangala",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-15",
+        "소속팀": "Everton"
+    },
+    {
+        "선수": "D. McNeil",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-15",
+        "소속팀": "Everton"
+    },
+    {
+        "선수": "I. Ndiaye",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-15",
+        "소속팀": "Everton"
+    },
+    {
+        "선수": "M. Antonio",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-15",
+        "소속팀": "West Ham"
+    },
+    {
+        "선수": "N. Fullkrug",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-15",
+        "소속팀": "West Ham"
+    },
+    {
+        "선수": "C. Summerville",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-15",
+        "소속팀": "West Ham"
+    },
+    {
+        "선수": "V. Coufal",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-03-15",
+        "소속팀": "West Ham"
     }
 ]

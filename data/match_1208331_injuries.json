@@ -1684,5 +1684,29 @@
         "부상 부위": "Questionable",
         "부상 날짜": "2025-03-15",
         "소속팀": "Southampton"
+    },
+    {
+        "선수": "K. Danso",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-16",
+        "소속팀": "Tottenham"
+    },
+    {
+        "선수": "R. Dragusin",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-16",
+        "소속팀": "Tottenham"
+    },
+    {
+        "선수": "D. Kulusevski",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-16",
+        "소속팀": "Tottenham"
+    },
+    {
+        "선수": "Richarlison",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-16",
+        "소속팀": "Tottenham"
     }
 ]

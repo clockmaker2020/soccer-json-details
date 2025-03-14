@@ -36,28 +36,34 @@
         "소속팀": "Manchester United"
     },
     {
-        "선수": "C. Coady",
+        "선수": "S. Botman",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-08-19",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-08-17",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "P. Daka",
+        "선수": "J. Lascelles",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-08-19",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-08-17",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "N. Opoku",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2024-08-19",
-        "소속팀": "Leicester"
+        "선수": "L. Miley",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-17",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "L. Thomas",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2024-08-19",
-        "소속팀": "Leicester"
+        "선수": "S. Tonali",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-17",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "C. Wilson",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-17",
+        "소속팀": "Newcastle"
     },
     {
         "선수": "R. Hojlund",
@@ -90,52 +96,82 @@
         "소속팀": "Manchester United"
     },
     {
-        "선수": "C. Coady",
+        "선수": "S. Botman",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-08-24",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-08-25",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "P. Daka",
+        "선수": "J. Lascelles",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-08-24",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-08-25",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "N. Opoku",
+        "선수": "L. Miley",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-08-24",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-08-25",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "J. Stolarczyk",
+        "선수": "F. Schar",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-08-24",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-08-25",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "L. Thomas",
+        "선수": "S. Tonali",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-25",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "J. White",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-25",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "C. Wilson",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-25",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "S. Botman",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-09-01",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "J. Lascelles",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-09-01",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "L. Miley",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-09-01",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "F. Schar",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-09-01",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "C. Wilson",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-09-01",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "J. Willock",
         "부상 부위": "Questionable",
-        "부상 날짜": "2024-08-24",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "P. Daka",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-08-31",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "N. Opoku",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-08-31",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "J. Stolarczyk",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-08-31",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-09-01",
+        "소속팀": "Newcastle"
     },
     {
         "선수": "R. Hojlund",
@@ -210,46 +246,52 @@
         "소속팀": "Manchester United"
     },
     {
-        "선수": "P. Daka",
+        "선수": "S. Botman",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-09-14",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-09-15",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "O. Edouard",
+        "선수": "J. Lascelles",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-09-14",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-09-15",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "N. Opoku",
+        "선수": "L. Miley",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-09-14",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-09-15",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "J. Stolarczyk",
+        "선수": "C. Wilson",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-09-14",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-09-15",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "P. Daka",
+        "선수": "S. Botman",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-09-21",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "N. Opoku",
+        "선수": "J. Lascelles",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-09-21",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "J. Stolarczyk",
+        "선수": "L. Miley",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-09-21",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "C. Wilson",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-09-21",
+        "소속팀": "Newcastle"
     },
     {
         "선수": "V. Lindelof",
@@ -288,34 +330,40 @@
         "소속팀": "Manchester United"
     },
     {
-        "선수": "H. Choudhury",
+        "선수": "S. Botman",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-10-05",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "P. Daka",
+        "선수": "A. Isak",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-10-05",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "N. Opoku",
+        "선수": "J. Lascelles",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-10-05",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "J. Stolarczyk",
+        "선수": "L. Miley",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-10-05",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "J. Vestergaard",
+        "선수": "C. Wilson",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-05",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "M. Targett",
         "부상 부위": "Questionable",
         "부상 날짜": "2024-10-05",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
         "선수": "T. Malacia",
@@ -378,58 +426,58 @@
         "소속팀": "Manchester United"
     },
     {
-        "선수": "H. Choudhury",
+        "선수": "S. Botman",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-10-19",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "P. Daka",
+        "선수": "J. Lascelles",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-10-19",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "N. Opoku",
+        "선수": "K. Trippier",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-10-19",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "J. Stolarczyk",
-        "부상 부위": "Missing Fixture",
+        "선수": "C. Wilson",
+        "부상 부위": "Questionable",
         "부상 날짜": "2024-10-19",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "H. Choudhury",
+        "선수": "S. Botman",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-25",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-10-27",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "P. Daka",
+        "선수": "J. Lascelles",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-25",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-10-27",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "N. Opoku",
+        "선수": "K. Trippier",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-25",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-10-27",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "J. Stolarczyk",
+        "선수": "C. Wilson",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-25",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-10-27",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "J. Vestergaard",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-25",
-        "소속팀": "Leicester"
+        "선수": "M. Dubravka",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-10-27",
+        "소속팀": "Newcastle"
     },
     {
         "선수": "Antony",
@@ -474,28 +522,34 @@
         "소속팀": "Manchester United"
     },
     {
-        "선수": "P. Daka",
+        "선수": "S. Botman",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-02",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "N. Opoku",
+        "선수": "J. Lascelles",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-02",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "J. Stolarczyk",
+        "선수": "K. Trippier",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-02",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "H. Choudhury",
+        "선수": "C. Wilson",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-02",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "J. Murphy",
         "부상 부위": "Questionable",
         "부상 날짜": "2024-11-02",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
         "선수": "Antony",
@@ -570,58 +624,22 @@
         "소속팀": "Manchester United"
     },
     {
-        "선수": "N. Opoku",
+        "선수": "S. Botman",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-10",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "J. Stolarczyk",
+        "선수": "J. Lascelles",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-10",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "P. Daka",
-        "부상 부위": "Questionable",
+        "선수": "C. Wilson",
+        "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-10",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "B. De Cordova-Reid",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2024-11-10",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "F. Buonanotte",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-23",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "I. Fatawu",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-23",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "N. Opoku",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-23",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "R. Pereira",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-23",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "J. Stolarczyk",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-23",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
         "선수": "V. Lindelof",
@@ -648,34 +666,46 @@
         "소속팀": "Manchester United"
     },
     {
-        "선수": "I. Fatawu",
+        "선수": "S. Botman",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-30",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-11-25",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "N. Opoku",
+        "선수": "D. Burn",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-30",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-11-25",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "R. Pereira",
+        "선수": "E. Krafth",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-30",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-11-25",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "J. Stolarczyk",
+        "선수": "J. Lascelles",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-30",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-11-25",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "H. Winks",
+        "선수": "S. Botman",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-30",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "E. Krafth",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-30",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "J. Lascelles",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-30",
+        "소속팀": "Newcastle"
     },
     {
         "선수": "V. Lindelof",
@@ -696,34 +726,22 @@
         "소속팀": "Manchester United"
     },
     {
-        "선수": "I. Fatawu",
+        "선수": "S. Botman",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-03",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-12-04",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "N. Opoku",
+        "선수": "E. Krafth",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-03",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-12-04",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "R. Pereira",
+        "선수": "J. Lascelles",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-03",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "J. Stolarczyk",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-03",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "H. Winks",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-03",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-12-04",
+        "소속팀": "Newcastle"
     },
     {
         "선수": "V. Lindelof",
@@ -756,6 +774,24 @@
         "소속팀": "Manchester United"
     },
     {
+        "선수": "S. Botman",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-07",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "E. Krafth",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-07",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "J. Lascelles",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-07",
+        "소속팀": "Newcastle"
+    },
+    {
         "선수": "J. Evans",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-07",
@@ -774,82 +810,34 @@
         "소속팀": "Manchester United"
     },
     {
-        "선수": "F. Buonanotte",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-08",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "I. Fatawu",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-08",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "N. Opoku",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-08",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "R. Pereira",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-08",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "J. Stolarczyk",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-08",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "H. Winks",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-08",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "I. Fatawu",
+        "선수": "S. Botman",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-14",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "W. Ndidi",
+        "선수": "E. Krafth",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-14",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "N. Opoku",
+        "선수": "J. Lascelles",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-14",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "R. Pereira",
+        "선수": "C. Wilson",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-14",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "B. Soumare",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-14",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "J. Stolarczyk",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-14",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "H. Winks",
+        "선수": "N. Pope",
         "부상 부위": "Questionable",
         "부상 날짜": "2024-12-14",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
         "선수": "A. Garnacho",
@@ -876,40 +864,40 @@
         "소속팀": "Manchester United"
     },
     {
-        "선수": "I. Fatawu",
+        "선수": "Joelinton",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-22",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-12-21",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "W. Ndidi",
+        "선수": "E. Krafth",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-22",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-12-21",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "N. Opoku",
+        "선수": "J. Lascelles",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-22",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-12-21",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "R. Pereira",
+        "선수": "N. Pope",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-22",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-12-21",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "O. Edouard",
+        "선수": "C. Wilson",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-21",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "S. Botman",
         "부상 부위": "Questionable",
-        "부상 날짜": "2024-12-22",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "M. Hermansen",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2024-12-22",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-12-21",
+        "소속팀": "Newcastle"
     },
     {
         "선수": "V. Lindelof",
@@ -928,6 +916,36 @@
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-22",
         "소속팀": "Manchester United"
+    },
+    {
+        "선수": "E. Krafth",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-26",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "J. Lascelles",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-26",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "N. Pope",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-26",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "C. Wilson",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-26",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "S. Botman",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-12-26",
+        "소속팀": "Newcastle"
     },
     {
         "선수": "V. Lindelof",
@@ -952,90 +970,6 @@
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-26",
         "소속팀": "Manchester United"
-    },
-    {
-        "선수": "I. Fatawu",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-26",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "M. Hermansen",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-26",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "W. Ndidi",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-26",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "N. Opoku",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-26",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "R. Pereira",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-26",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "J. Vardy",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2024-12-26",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "J. Ayew",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-29",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "I. Fatawu",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-29",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "M. Hermansen",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-29",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "W. Ndidi",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-29",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "N. Opoku",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-29",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "R. Pereira",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-29",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "W. Faes",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2024-12-29",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "K. McAteer",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2024-12-29",
-        "소속팀": "Leicester"
     },
     {
         "선수": "B. Fernandes",
@@ -1068,40 +1002,64 @@
         "소속팀": "Manchester United"
     },
     {
-        "선수": "I. Fatawu",
+        "선수": "E. Krafth",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-04",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-12-30",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "M. Hermansen",
+        "선수": "J. Lascelles",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-04",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-12-30",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "K. McAteer",
+        "선수": "N. Pope",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-04",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-12-30",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "W. Ndidi",
+        "선수": "C. Wilson",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-04",
-        "소속팀": "Leicester"
+        "부상 날짜": "2024-12-30",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "N. Opoku",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-04",
-        "소속팀": "Leicester"
+        "선수": "S. Botman",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-12-30",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "R. Pereira",
+        "선수": "E. Krafth",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-04",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "J. Lascelles",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-04",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "N. Pope",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-04",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "F. Schar",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-04",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "C. Wilson",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-04",
+        "소속팀": "Newcastle"
     },
     {
         "선수": "V. Lindelof",
@@ -1128,40 +1086,28 @@
         "소속팀": "Manchester United"
     },
     {
-        "선수": "O. Edouard",
+        "선수": "H. Barnes",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-15",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "I. Fatawu",
+        "선수": "J. Lascelles",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-15",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "M. Hermansen",
+        "선수": "N. Pope",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-15",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "W. Ndidi",
+        "선수": "C. Wilson",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-15",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "N. Opoku",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-15",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "R. Pereira",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-15",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
         "선수": "D. Dalot",
@@ -1200,34 +1146,28 @@
         "소속팀": "Manchester United"
     },
     {
-        "선수": "I. Fatawu",
+        "선수": "H. Barnes",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-18",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "M. Hermansen",
+        "선수": "J. Lascelles",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-18",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "W. Ndidi",
+        "선수": "N. Pope",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-18",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "N. Opoku",
+        "선수": "C. Wilson",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-18",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "R. Pereira",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-18",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
         "선수": "J. Evans",
@@ -1260,34 +1200,22 @@
         "소속팀": "Manchester United"
     },
     {
-        "선수": "I. Fatawu",
+        "선수": "H. Barnes",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-26",
-        "소속팀": "Leicester"
+        "부상 날짜": "2025-01-25",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "M. Hermansen",
+        "선수": "J. Lascelles",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-26",
-        "소속팀": "Leicester"
+        "부상 날짜": "2025-01-25",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "N. Opoku",
+        "선수": "C. Wilson",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-26",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "R. Pereira",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-26",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "W. Ndidi",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-01-26",
-        "소속팀": "Leicester"
+        "부상 날짜": "2025-01-25",
+        "소속팀": "Newcastle"
     },
     {
         "선수": "J. Evans",
@@ -1314,34 +1242,22 @@
         "소속팀": "Manchester United"
     },
     {
-        "선수": "I. Fatawu",
+        "선수": "H. Barnes",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-01",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "N. Opoku",
+        "선수": "J. Lascelles",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-01",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "R. Pereira",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-01",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "H. Souttar",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-01",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "W. Ndidi",
+        "선수": "C. Wilson",
         "부상 부위": "Questionable",
         "부상 날짜": "2025-02-01",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
         "선수": "J. Evans",
@@ -1368,28 +1284,22 @@
         "소속팀": "Manchester United"
     },
     {
-        "선수": "I. Fatawu",
+        "선수": "Joelinton",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-15",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "N. Opoku",
+        "선수": "J. Lascelles",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-15",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "R. Pereira",
-        "부상 부위": "Missing Fixture",
+        "선수": "S. Botman",
+        "부상 부위": "Questionable",
         "부상 날짜": "2025-02-15",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "H. Souttar",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-15",
-        "소속팀": "Leicester"
+        "소속팀": "Newcastle"
     },
     {
         "선수": "A. Bayindir",
@@ -1440,36 +1350,6 @@
         "소속팀": "Manchester United"
     },
     {
-        "선수": "I. Fatawu",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-21",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "N. Opoku",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-21",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "R. Pereira",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-21",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "H. Souttar",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-21",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "J. Justin",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-02-21",
-        "소속팀": "Leicester"
-    },
-    {
         "선수": "A. Bayindir",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-22",
@@ -1510,6 +1390,24 @@
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-22",
         "소속팀": "Manchester United"
+    },
+    {
+        "선수": "Joelinton",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-23",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "J. Lascelles",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-23",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "S. Botman",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-02-23",
+        "소속팀": "Newcastle"
     },
     {
         "선수": "A. Bayindir",
@@ -1560,46 +1458,22 @@
         "소속팀": "Manchester United"
     },
     {
-        "선수": "I. Fatawu",
+        "선수": "Joelinton",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-27",
-        "소속팀": "Leicester"
+        "부상 날짜": "2025-02-26",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "N. Opoku",
+        "선수": "J. Lascelles",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-27",
-        "소속팀": "Leicester"
+        "부상 날짜": "2025-02-26",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "R. Pereira",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-27",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "H. Souttar",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-27",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "I. Fatawu",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-09",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "N. Opoku",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-09",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "H. Souttar",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-09",
-        "소속팀": "Leicester"
+        "선수": "S. Botman",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-02-26",
+        "소속팀": "Newcastle"
     },
     {
         "선수": "A. Bayindir",
@@ -1668,22 +1542,28 @@
         "소속팀": "Manchester United"
     },
     {
-        "선수": "I. Fatawu",
+        "선수": "S. Botman",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-16",
-        "소속팀": "Leicester"
+        "부상 날짜": "2025-03-10",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "N. Opoku",
+        "선수": "A. Gordon",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-16",
-        "소속팀": "Leicester"
+        "부상 날짜": "2025-03-10",
+        "소속팀": "Newcastle"
     },
     {
-        "선수": "H. Souttar",
+        "선수": "L. Hall",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-16",
-        "소속팀": "Leicester"
+        "부상 날짜": "2025-03-10",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "J. Lascelles",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-10",
+        "소속팀": "Newcastle"
     },
     {
         "선수": "A. Bayindir",

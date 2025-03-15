@@ -1,5 +1,5 @@
 {
-    "현재 점수": "1 - 1",
+    "현재 점수": "1 - 2",
     "득점 기록": " - ",
     "주요 경기 이벤트": [
         {
@@ -13,6 +13,42 @@
             "선수": "Y. Wissa",
             "팀": "Brentford",
             "시간": 30
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "L. Sinisterra",
+            "팀": "Bournemouth",
+            "시간": 67
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "M. Tavernier",
+            "팀": "Bournemouth",
+            "시간": 68
+        },
+        {
+            "이벤트 종류": "Goal",
+            "선수": "C. Norgaard",
+            "팀": "Brentford",
+            "시간": 71
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "Y. Yarmolyuk",
+            "팀": "Brentford",
+            "시간": 72
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "S. van den Berg",
+            "팀": "Brentford",
+            "시간": 72
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "A. Semenyo",
+            "팀": "Bournemouth",
+            "시간": 75
         }
     ]
 }

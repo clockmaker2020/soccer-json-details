@@ -18,12 +18,6 @@
         "소속팀": "Bournemouth"
     },
     {
-        "선수": "E. Alvarez",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-08-17",
-        "소속팀": "West Ham"
-    },
-    {
         "선수": "T. Adams",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-08-25",
@@ -54,16 +48,10 @@
         "소속팀": "Bournemouth"
     },
     {
-        "선수": "A. Cresswell",
+        "선수": "Carlos Vinicius",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-08-31",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "N. Fullkrug",
-        "부상 부위": "Questionable",
         "부상 날짜": "2024-09-14",
-        "소속팀": "West Ham"
+        "소속팀": "Fulham"
     },
     {
         "선수": "T. Adams",
@@ -84,10 +72,10 @@
         "소속팀": "Bournemouth"
     },
     {
-        "선수": "N. Fullkrug",
-        "부상 부위": "Questionable",
+        "선수": "Carlos Vinicius",
+        "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-09-21",
-        "소속팀": "West Ham"
+        "소속팀": "Fulham"
     },
     {
         "선수": "T. Adams",
@@ -108,16 +96,40 @@
         "소속팀": "Bournemouth"
     },
     {
-        "선수": "N. Fullkrug",
-        "부상 부위": "Questionable",
+        "선수": "Carlos Vinicius",
+        "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-10-05",
-        "소속팀": "West Ham"
+        "소속팀": "Fulham"
     },
     {
-        "선수": "N. Fullkrug",
+        "선수": "J. Cuenca",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-05",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "Carlos Vinicius",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-10-19",
-        "소속팀": "West Ham"
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "T. Castagne",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-19",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "J. Cuenca",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-19",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "S. Lukic",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-19",
+        "소속팀": "Fulham"
     },
     {
         "선수": "A. Scott",
@@ -132,16 +144,28 @@
         "소속팀": "Bournemouth"
     },
     {
-        "선수": "N. Fullkrug",
+        "선수": "J. Andersen",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-27",
-        "소속팀": "West Ham"
+        "부상 날짜": "2024-10-26",
+        "소속팀": "Fulham"
     },
     {
-        "선수": "M. Kudus",
+        "선수": "T. Castagne",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-27",
-        "소속팀": "West Ham"
+        "부상 날짜": "2024-10-26",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "S. Lukic",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-26",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "Carlos Vinicius",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-10-26",
+        "소속팀": "Fulham"
     },
     {
         "선수": "K. Arrizabalaga",
@@ -168,22 +192,16 @@
         "소속팀": "Bournemouth"
     },
     {
-        "선수": "N. Fullkrug",
+        "선수": "S. Lukic",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-02",
-        "소속팀": "West Ham"
+        "부상 날짜": "2024-11-04",
+        "소속팀": "Fulham"
     },
     {
-        "선수": "M. Kudus",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-02",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "T. Soucek",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-02",
-        "소속팀": "West Ham"
+        "선수": "Carlos Vinicius",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-11-04",
+        "소속팀": "Fulham"
     },
     {
         "선수": "D. Ouattara",
@@ -204,22 +222,10 @@
         "소속팀": "Bournemouth"
     },
     {
-        "선수": "E. Alvarez",
+        "선수": "S. Lukic",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-09",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "N. Fullkrug",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-09",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "M. Kudus",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-09",
-        "소속팀": "West Ham"
+        "소속팀": "Fulham"
     },
     {
         "선수": "J. Araujo",
@@ -246,16 +252,10 @@
         "소속팀": "Bournemouth"
     },
     {
-        "선수": "N. Fullkrug",
+        "선수": "H. Reed",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-25",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "M. Kudus",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-25",
-        "소속팀": "West Ham"
+        "부상 날짜": "2024-11-23",
+        "소속팀": "Fulham"
     },
     {
         "선수": "J. Araujo",
@@ -282,22 +282,46 @@
         "소속팀": "Bournemouth"
     },
     {
-        "선수": "N. Fullkrug",
+        "선수": "J. Andersen",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-30",
-        "소속팀": "West Ham"
+        "부상 날짜": "2024-12-01",
+        "소속팀": "Fulham"
     },
     {
-        "선수": "M. Kudus",
+        "선수": "J. Cuenca",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-30",
-        "소속팀": "West Ham"
+        "부상 날짜": "2024-12-01",
+        "소속팀": "Fulham"
     },
     {
-        "선수": "J. Todibo",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2024-12-03",
-        "소속팀": "West Ham"
+        "선수": "H. Reed",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-01",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "J. Andersen",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-05",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "T. Cairney",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-05",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "S. Lukic",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-05",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "H. Reed",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-05",
+        "소속팀": "Fulham"
     },
     {
         "선수": "J. Araujo",
@@ -316,6 +340,30 @@
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-05",
         "소속팀": "Bournemouth"
+    },
+    {
+        "선수": "J. Andersen",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-08",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "T. Cairney",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-08",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "R. Nelson",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-08",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "H. Reed",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-08",
+        "소속팀": "Fulham"
     },
     {
         "선수": "J. Araujo",
@@ -342,10 +390,34 @@
         "소속팀": "Bournemouth"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "J. Andersen",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-09",
-        "소속팀": "West Ham"
+        "부상 날짜": "2024-12-14",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "C. Bassey",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-14",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "T. Cairney",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-14",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "R. Nelson",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-14",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "H. Reed",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-14",
+        "소속팀": "Fulham"
     },
     {
         "선수": "J. Araujo",
@@ -378,28 +450,28 @@
         "소속팀": "Bournemouth"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "R. Nelson",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-16",
-        "소속팀": "West Ham"
+        "부상 날짜": "2024-12-22",
+        "소속팀": "Fulham"
     },
     {
-        "선수": "Emerson",
+        "선수": "A. Pereira",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-16",
-        "소속팀": "West Ham"
+        "부상 날짜": "2024-12-22",
+        "소속팀": "Fulham"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "H. Reed",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-21",
-        "소속팀": "West Ham"
+        "부상 날짜": "2024-12-22",
+        "소속팀": "Fulham"
     },
     {
-        "선수": "C. Soler",
+        "선수": "K. Tete",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-21",
-        "소속팀": "West Ham"
+        "부상 날짜": "2024-12-22",
+        "소속팀": "Fulham"
     },
     {
         "선수": "J. Araujo",
@@ -468,16 +540,58 @@
         "소속팀": "Bournemouth"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "R. Nelson",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-26",
-        "소속팀": "West Ham"
+        "소속팀": "Fulham"
     },
     {
-        "선수": "L. Paqueta",
+        "선수": "H. Reed",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-26",
-        "소속팀": "West Ham"
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "K. Tete",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-26",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "S. Berge",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-12-26",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "E. Smith Rowe",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-12-26",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "S. Berge",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-29",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "R. Nelson",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-29",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "H. Reed",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-29",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "K. Tete",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-29",
+        "소속팀": "Fulham"
     },
     {
         "선수": "J. Araujo",
@@ -522,30 +636,6 @@
         "소속팀": "Bournemouth"
     },
     {
-        "선수": "M. Antonio",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-29",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "L. Fabianski",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-29",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "G. Rodriguez",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-29",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "T. Soucek",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-29",
-        "소속팀": "West Ham"
-    },
-    {
         "선수": "J. Araujo",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-04",
@@ -582,22 +672,28 @@
         "소속팀": "Bournemouth"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "S. Berge",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-04",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-01-05",
+        "소속팀": "Fulham"
     },
     {
-        "선수": "J. Bowen",
+        "선수": "R. Nelson",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-04",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-01-05",
+        "소속팀": "Fulham"
     },
     {
-        "선수": "L. Fabianski",
+        "선수": "H. Reed",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-04",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-01-05",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "K. Tete",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-05",
+        "소속팀": "Fulham"
     },
     {
         "선수": "J. Araujo",
@@ -654,34 +750,16 @@
         "소속팀": "Bournemouth"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "R. Nelson",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-14",
-        "소속팀": "West Ham"
+        "소속팀": "Fulham"
     },
     {
-        "선수": "J. Bowen",
+        "선수": "K. Tete",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-14",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "N. Fullkrug",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-14",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "J. Todibo",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-14",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "C. Summerville",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-01-14",
-        "소속팀": "West Ham"
+        "소속팀": "Fulham"
     },
     {
         "선수": "J. Araujo",
@@ -744,34 +822,16 @@
         "소속팀": "Bournemouth"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "R. Nelson",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-18",
-        "소속팀": "West Ham"
+        "소속팀": "Fulham"
     },
     {
-        "선수": "J. Bowen",
+        "선수": "K. Tete",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-18",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "N. Fullkrug",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-18",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "J. Todibo",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-18",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "C. Summerville",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-01-18",
-        "소속팀": "West Ham"
+        "소속팀": "Fulham"
     },
     {
         "선수": "J. Araujo",
@@ -828,40 +888,16 @@
         "소속팀": "Bournemouth"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "R. Nelson",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-26",
-        "소속팀": "West Ham"
+        "소속팀": "Fulham"
     },
     {
-        "선수": "J. Bowen",
+        "선수": "K. Tete",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-26",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "N. Fullkrug",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-26",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "K. Mavropanos",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-26",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "J. Todibo",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-26",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "C. Summerville",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-01-26",
-        "소속팀": "West Ham"
+        "소속팀": "Fulham"
     },
     {
         "선수": "J. Araujo",
@@ -918,28 +954,40 @@
         "소속팀": "Bournemouth"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "K. Tete",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-03",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-02-01",
+        "소속팀": "Fulham"
     },
     {
-        "선수": "N. Fullkrug",
+        "선수": "H. Wilson",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-03",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-02-01",
+        "소속팀": "Fulham"
     },
     {
-        "선수": "J. Todibo",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-03",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "C. Summerville",
+        "선수": "R. Nelson",
         "부상 부위": "Questionable",
-        "부상 날짜": "2025-02-03",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-02-01",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "R. Nelson",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-15",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "K. Tete",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-15",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "H. Wilson",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-15",
+        "소속팀": "Fulham"
     },
     {
         "선수": "J. Araujo",
@@ -984,54 +1032,6 @@
         "소속팀": "Bournemouth"
     },
     {
-        "선수": "M. Antonio",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-15",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "N. Fullkrug",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-15",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "C. Summerville",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-15",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "M. Antonio",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-22",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "N. Fullkrug",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-22",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "L. Paqueta",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-22",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "C. Summerville",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-22",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "V. Coufal",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-02-22",
-        "소속팀": "West Ham"
-    },
-    {
         "선수": "J. Araujo",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-22",
@@ -1054,6 +1054,24 @@
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-22",
         "소속팀": "Bournemouth"
+    },
+    {
+        "선수": "R. Nelson",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-22",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "K. Tete",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-22",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "H. Wilson",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-22",
+        "소속팀": "Fulham"
     },
     {
         "선수": "J. Araujo",
@@ -1086,34 +1104,52 @@
         "소속팀": "Bournemouth"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "R. Nelson",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-27",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-02-25",
+        "소속팀": "Fulham"
     },
     {
-        "선수": "V. Coufal",
+        "선수": "K. Tete",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-27",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-02-25",
+        "소속팀": "Fulham"
     },
     {
-        "선수": "N. Fullkrug",
+        "선수": "H. Wilson",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-27",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-02-25",
+        "소속팀": "Fulham"
     },
     {
-        "선수": "L. Paqueta",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-27",
-        "소속팀": "West Ham"
+        "선수": "E. Smith Rowe",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-02-25",
+        "소속팀": "Fulham"
     },
     {
-        "선수": "C. Summerville",
+        "선수": "R. Nelson",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-27",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-03-08",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "K. Tete",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-08",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "H. Wilson",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-08",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "A. Traore",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-03-08",
+        "소속팀": "Fulham"
     },
     {
         "선수": "J. Araujo",
@@ -1146,54 +1182,6 @@
         "소속팀": "Bournemouth"
     },
     {
-        "선수": "M. Antonio",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-10",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "N. Fullkrug",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-10",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "C. Summerville",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-10",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "V. Coufal",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-03-10",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "M. Antonio",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-15",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "N. Fullkrug",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-15",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "C. Summerville",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-15",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "V. Coufal",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-03-15",
-        "소속팀": "West Ham"
-    },
-    {
         "선수": "J. Araujo",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-15",
@@ -1216,5 +1204,35 @@
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-15",
         "소속팀": "Bournemouth"
+    },
+    {
+        "선수": "S. Lukic",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-16",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "R. Nelson",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-16",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "K. Tete",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-16",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "H. Wilson",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-16",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "A. Traore",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-03-16",
+        "소속팀": "Fulham"
     }
 ]

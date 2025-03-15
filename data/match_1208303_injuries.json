@@ -1656,12 +1656,6 @@
         "소속팀": "Bournemouth"
     },
     {
-        "선수": "I. Zabarnyi",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-15",
-        "소속팀": "Bournemouth"
-    },
-    {
         "선수": "F. Carvalho",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-15",
@@ -1688,6 +1682,12 @@
     {
         "선수": "I. Thiago",
         "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-15",
+        "소속팀": "Brentford"
+    },
+    {
+        "선수": "S. van den Berg",
+        "부상 부위": "Questionable",
         "부상 날짜": "2025-03-15",
         "소속팀": "Brentford"
     }

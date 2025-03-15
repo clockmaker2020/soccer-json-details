@@ -1242,12 +1242,6 @@
         "소속팀": "Manchester United"
     },
     {
-        "선수": "M. Mount",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-16",
-        "소속팀": "Manchester United"
-    },
-    {
         "선수": "L. Shaw",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-16",
@@ -1256,6 +1250,12 @@
     {
         "선수": "L. Yoro",
         "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-16",
+        "소속팀": "Manchester United"
+    },
+    {
+        "선수": "H. Maguire",
+        "부상 부위": "Questionable",
         "부상 날짜": "2025-03-16",
         "소속팀": "Manchester United"
     }

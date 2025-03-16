@@ -1626,12 +1626,6 @@
         "소속팀": "Chelsea"
     },
     {
-        "선수": "M. Gusto",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-16",
-        "소속팀": "Chelsea"
-    },
-    {
         "선수": "N. Jackson",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-16",
@@ -1645,6 +1639,12 @@
     },
     {
         "선수": "M. Mudryk",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-16",
+        "소속팀": "Chelsea"
+    },
+    {
+        "선수": "C. Palmer",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-16",
         "소속팀": "Chelsea"

@@ -52,13 +52,13 @@
         },
         {
             "이벤트 종류": "subst",
-            "선수": "J. Zirkzee",
+            "선수": "H. Amass",
             "팀": "Manchester United",
             "시간": 69
         },
         {
             "이벤트 종류": "subst",
-            "선수": "H. Amass",
+            "선수": "J. Zirkzee",
             "팀": "Manchester United",
             "시간": 69
         },
@@ -70,19 +70,19 @@
         },
         {
             "이벤트 종류": "subst",
-            "선수": "S. Mavididi",
-            "팀": "Leicester",
-            "시간": 82
-        },
-        {
-            "이벤트 종류": "subst",
             "선수": "K. McAteer",
             "팀": "Leicester",
             "시간": 82
         },
         {
             "이벤트 종류": "subst",
-            "선수": "T. Fredricson",
+            "선수": "S. Mavididi",
+            "팀": "Leicester",
+            "시간": 82
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "C. Obi",
             "팀": "Manchester United",
             "시간": 85
         },

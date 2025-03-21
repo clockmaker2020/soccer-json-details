@@ -1,0 +1,10 @@
+{
+    "홈팀": {
+        "이름": "Leicester",
+        "로고": "https://media.api-sports.io/football/teams/46.png"
+    },
+    "원정팀": {
+        "이름": "Liverpool",
+        "로고": "https://media.api-sports.io/football/teams/40.png"
+    }
+}

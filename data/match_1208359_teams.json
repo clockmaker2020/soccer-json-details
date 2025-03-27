@@ -1,0 +1,10 @@
+{
+    "홈팀": {
+        "이름": "Newcastle",
+        "로고": "https://media.api-sports.io/football/teams/34.png"
+    },
+    "원정팀": {
+        "이름": "Ipswich",
+        "로고": "https://media.api-sports.io/football/teams/57.png"
+    }
+}

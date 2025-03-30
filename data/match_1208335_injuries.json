@@ -1816,5 +1816,65 @@
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-16",
         "소속팀": "Leicester"
+    },
+    {
+        "선수": "Igor",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Brighton"
+    },
+    {
+        "선수": "T. Lamptey",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Brighton"
+    },
+    {
+        "선수": "J. Milner",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Brighton"
+    },
+    {
+        "선수": "J. Steele",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Brighton"
+    },
+    {
+        "선수": "S. March",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Brighton"
+    },
+    {
+        "선수": "J. Veltman",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Brighton"
+    },
+    {
+        "선수": "A. Webster",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Brighton"
+    },
+    {
+        "선수": "I. Fatawu",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Leicester"
+    },
+    {
+        "선수": "N. Opoku",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Leicester"
+    },
+    {
+        "선수": "H. Souttar",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Leicester"
     }
 ]

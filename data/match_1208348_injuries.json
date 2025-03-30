@@ -1606,5 +1606,35 @@
         "부상 부위": "Questionable",
         "부상 날짜": "2025-04-01",
         "소속팀": "Arsenal"
+    },
+    {
+        "선수": "W. Burns",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "C. Chaplin",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "C. Ogbene",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "S. Szmodics",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "J. Enciso",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Ipswich"
     }
 ]

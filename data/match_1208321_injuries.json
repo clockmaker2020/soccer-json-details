@@ -1540,5 +1540,65 @@
         "부상 부위": "Questionable",
         "부상 날짜": "2025-03-15",
         "소속팀": "Southampton"
+    },
+    {
+        "선수": "J. Bree",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "R. Fraser",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "W. Smallbone",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "T. Harwood-Bellis",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "R. Stewart",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "C. Doucoure",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Crystal Palace"
+    },
+    {
+        "선수": "W. Hughes",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Crystal Palace"
+    },
+    {
+        "선수": "C. Riad",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Crystal Palace"
+    },
+    {
+        "선수": "W. Hughes",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Crystal Palace"
+    },
+    {
+        "선수": "J. Ward",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Crystal Palace"
     }
 ]

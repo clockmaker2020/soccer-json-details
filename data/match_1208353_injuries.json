@@ -1702,5 +1702,35 @@
         "부상 부위": "Questionable",
         "부상 날짜": "2025-03-16",
         "소속팀": "Manchester United"
+    },
+    {
+        "선수": "A. Diallo",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-01",
+        "소속팀": "Manchester United"
+    },
+    {
+        "선수": "J. Evans",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-01",
+        "소속팀": "Manchester United"
+    },
+    {
+        "선수": "K. Mainoo",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-01",
+        "소속팀": "Manchester United"
+    },
+    {
+        "선수": "L. Martinez",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-01",
+        "소속팀": "Manchester United"
+    },
+    {
+        "선수": "A. Heaven",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-04-01",
+        "소속팀": "Manchester United"
     }
 ]

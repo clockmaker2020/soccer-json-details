@@ -1252,5 +1252,29 @@
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-01",
         "소속팀": "Fulham"
+    },
+    {
+        "선수": "A. Anselmino",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-03",
+        "소속팀": "Chelsea"
+    },
+    {
+        "선수": "M. Gusto",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-03",
+        "소속팀": "Chelsea"
+    },
+    {
+        "선수": "O. Kellyman",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-03",
+        "소속팀": "Chelsea"
+    },
+    {
+        "선수": "M. Mudryk",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-03",
+        "소속팀": "Chelsea"
     }
 ]

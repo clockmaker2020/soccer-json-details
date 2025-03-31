@@ -1230,15 +1230,27 @@
         "소속팀": "Nottingham Forest"
     },
     {
-        "선수": "M. Gibbs-White",
+        "선수": "C. Wood",
         "부상 부위": "Questionable",
         "부상 날짜": "2025-04-01",
         "소속팀": "Nottingham Forest"
     },
     {
-        "선수": "C. Wood",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-04-01",
-        "소속팀": "Nottingham Forest"
+        "선수": "K. Danso",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-03",
+        "소속팀": "Tottenham"
+    },
+    {
+        "선수": "R. Dragusin",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-03",
+        "소속팀": "Tottenham"
+    },
+    {
+        "선수": "D. Kulusevski",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-03",
+        "소속팀": "Tottenham"
     }
 ]

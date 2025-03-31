@@ -1290,6 +1290,12 @@
         "소속팀": "Leicester"
     },
     {
+        "선수": "R. Pereira",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Leicester"
+    },
+    {
         "선수": "T. Alexander-Arnold",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-02",
@@ -1304,6 +1310,18 @@
     {
         "선수": "J. Gomez",
         "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Liverpool"
+    },
+    {
+        "선수": "T. Morton",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Liverpool"
+    },
+    {
+        "선수": "R. Gravenberch",
+        "부상 부위": "Questionable",
         "부상 날짜": "2025-04-02",
         "소속팀": "Liverpool"
     }

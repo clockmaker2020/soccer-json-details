@@ -1248,6 +1248,18 @@
         "소속팀": "Brentford"
     },
     {
+        "선수": "Carlos Miguel",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-01",
+        "소속팀": "Nottingham Forest"
+    },
+    {
+        "선수": "M. Gibbs-White",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-04-01",
+        "소속팀": "Nottingham Forest"
+    },
+    {
         "선수": "C. Wood",
         "부상 부위": "Questionable",
         "부상 날짜": "2025-04-01",
@@ -1266,8 +1278,26 @@
         "소속팀": "Brentford"
     },
     {
+        "선수": "A. Hickey",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Brentford"
+    },
+    {
         "선수": "M. Kayode",
         "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Brentford"
+    },
+    {
+        "선수": "I. Thiago",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Brentford"
+    },
+    {
+        "선수": "R. Henry",
+        "부상 부위": "Questionable",
         "부상 날짜": "2025-04-02",
         "소속팀": "Brentford"
     }

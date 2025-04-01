@@ -1,0 +1,90 @@
+{
+    "현재 점수": "1 - 0",
+    "득점 기록": "1 - 0",
+    "주요 경기 이벤트": [
+        {
+            "이벤트 종류": "Goal",
+            "선수": "A. Elanga",
+            "팀": "Nottingham Forest",
+            "시간": 5
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "A. Moreno",
+            "팀": "Nottingham Forest",
+            "시간": 39
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "Morato",
+            "팀": "Nottingham Forest",
+            "시간": 40
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "R. Hojlund",
+            "팀": "Manchester United",
+            "시간": 46
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "Casemiro",
+            "팀": "Manchester United",
+            "시간": 50
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "C. Eriksen",
+            "팀": "Manchester United",
+            "시간": 59
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "A. Garnacho",
+            "팀": "Manchester United",
+            "시간": 66
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "N. Dominguez",
+            "팀": "Nottingham Forest",
+            "시간": 67
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "N. Williams",
+            "팀": "Nottingham Forest",
+            "시간": 71
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "C. Eriksen",
+            "팀": "Manchester United",
+            "시간": 78
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "M. Mount",
+            "팀": "Manchester United",
+            "시간": 78
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "R. Sosa",
+            "팀": "Nottingham Forest",
+            "시간": 86
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "I. Sangare",
+            "팀": "Nottingham Forest",
+            "시간": 86
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "H. Maguire",
+            "팀": "Manchester United",
+            "시간": 88
+        }
+    ]
+}

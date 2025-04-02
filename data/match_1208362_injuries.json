@@ -1852,5 +1852,29 @@
         "부상 부위": "Questionable",
         "부상 날짜": "2025-04-02",
         "소속팀": "Leicester"
+    },
+    {
+        "선수": "L. Chiwome",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-05",
+        "소속팀": "Wolves"
+    },
+    {
+        "선수": "E. Gonzalez",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-05",
+        "소속팀": "Wolves"
+    },
+    {
+        "선수": "S. Kalajdzic",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-05",
+        "소속팀": "Wolves"
+    },
+    {
+        "선수": "Y. Mosquera",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-05",
+        "소속팀": "Wolves"
     }
 ]

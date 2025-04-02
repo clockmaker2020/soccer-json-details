@@ -1524,12 +1524,6 @@
         "소속팀": "Brighton"
     },
     {
-        "선수": "S. March",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-04-02",
-        "소속팀": "Brighton"
-    },
-    {
         "선수": "J. Milner",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-02",
@@ -1554,8 +1548,8 @@
         "소속팀": "Brighton"
     },
     {
-        "선수": "M. Wieffer",
-        "부상 부위": "Missing Fixture",
+        "선수": "S. March",
+        "부상 부위": "Questionable",
         "부상 날짜": "2025-04-02",
         "소속팀": "Brighton"
     },
@@ -1566,8 +1560,20 @@
         "소속팀": "Brighton"
     },
     {
+        "선수": "M. Wieffer",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Brighton"
+    },
+    {
+        "선수": "L. Bailey",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Aston Villa"
+    },
+    {
         "선수": "R. Barkley",
-        "부상 부위": "Missing Fixture",
+        "부상 부위": "Questionable",
         "부상 날짜": "2025-04-02",
         "소속팀": "Aston Villa"
     }

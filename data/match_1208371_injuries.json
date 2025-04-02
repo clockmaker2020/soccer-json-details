@@ -24,10 +24,28 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "E. Alvarez",
+        "선수": "O. Bobb",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-08-17",
-        "소속팀": "West Ham"
+        "부상 날짜": "2024-08-18",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "Rodri",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-08-18",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "O. Bobb",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-24",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "Rodri",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-08-24",
+        "소속팀": "Manchester City"
     },
     {
         "선수": "L. Chiwome",
@@ -78,16 +96,28 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "A. Cresswell",
+        "선수": "O. Bobb",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-08-31",
-        "소속팀": "West Ham"
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "N. Fullkrug",
+        "선수": "P. Foden",
         "부상 부위": "Questionable",
+        "부상 날짜": "2024-08-31",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "N. Ake",
+        "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-09-14",
-        "소속팀": "West Ham"
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "O. Bobb",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-09-14",
+        "소속팀": "Manchester City"
     },
     {
         "선수": "L. Chiwome",
@@ -112,12 +142,6 @@
         "부상 부위": "Questionable",
         "부상 날짜": "2024-09-15",
         "소속팀": "Wolves"
-    },
-    {
-        "선수": "N. Fullkrug",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2024-09-21",
-        "소속팀": "West Ham"
     },
     {
         "선수": "L. Chiwome",
@@ -156,6 +180,24 @@
         "소속팀": "Wolves"
     },
     {
+        "선수": "N. Ake",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-09-22",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "O. Bobb",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-09-22",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "K. De Bruyne",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-09-22",
+        "소속팀": "Manchester City"
+    },
+    {
         "선수": "L. Chiwome",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-10-05",
@@ -192,16 +234,28 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "N. Fullkrug",
-        "부상 부위": "Questionable",
+        "선수": "N. Ake",
+        "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-10-05",
-        "소속팀": "West Ham"
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "N. Fullkrug",
+        "선수": "O. Bobb",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-19",
-        "소속팀": "West Ham"
+        "부상 날짜": "2024-10-05",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "K. De Bruyne",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-05",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "Rodri",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-05",
+        "소속팀": "Manchester City"
     },
     {
         "선수": "L. Chiwome",
@@ -246,6 +300,24 @@
         "소속팀": "Wolves"
     },
     {
+        "선수": "O. Bobb",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-20",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "K. De Bruyne",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-20",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "Rodri",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-20",
+        "소속팀": "Manchester City"
+    },
+    {
         "선수": "L. Chiwome",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-10-26",
@@ -288,34 +360,58 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "N. Fullkrug",
+        "선수": "O. Bobb",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-27",
-        "소속팀": "West Ham"
+        "부상 날짜": "2024-10-26",
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "M. Kudus",
+        "선수": "K. De Bruyne",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-27",
-        "소속팀": "West Ham"
+        "부상 날짜": "2024-10-26",
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "N. Fullkrug",
+        "선수": "J. Doku",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-26",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "J. Grealish",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-26",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "Rodri",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-26",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "K. Walker",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-26",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "O. Bobb",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-02",
-        "소속팀": "West Ham"
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "M. Kudus",
+        "선수": "J. Grealish",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-02",
-        "소속팀": "West Ham"
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "T. Soucek",
+        "선수": "Rodri",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-02",
-        "소속팀": "West Ham"
+        "소속팀": "Manchester City"
     },
     {
         "선수": "L. Chiwome",
@@ -360,24 +456,6 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "E. Alvarez",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-09",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "N. Fullkrug",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-09",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "M. Kudus",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-09",
-        "소속팀": "West Ham"
-    },
-    {
         "선수": "L. Chiwome",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-09",
@@ -412,6 +490,36 @@
         "부상 부위": "Questionable",
         "부상 날짜": "2024-11-09",
         "소속팀": "Wolves"
+    },
+    {
+        "선수": "O. Bobb",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-09",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "R. Dias",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-09",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "J. Grealish",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-09",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "Rodri",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-09",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "J. Stones",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-09",
+        "소속팀": "Manchester City"
     },
     {
         "선수": "L. Chiwome",
@@ -456,16 +564,34 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "N. Fullkrug",
+        "선수": "O. Bobb",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-25",
-        "소속팀": "West Ham"
+        "부상 날짜": "2024-11-23",
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "M. Kudus",
+        "선수": "R. Dias",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-25",
-        "소속팀": "West Ham"
+        "부상 날짜": "2024-11-23",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "M. Kovacic",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-23",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "Rodri",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-23",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "J. Doku",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-11-23",
+        "소속팀": "Manchester City"
     },
     {
         "선수": "L. Chiwome",
@@ -504,22 +630,28 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "N. Fullkrug",
+        "선수": "O. Bobb",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-30",
-        "소속팀": "West Ham"
+        "부상 날짜": "2024-12-01",
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "M. Kudus",
+        "선수": "M. Kovacic",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-30",
-        "소속팀": "West Ham"
+        "부상 날짜": "2024-12-01",
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "J. Todibo",
+        "선수": "Rodri",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-01",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "J. Stones",
         "부상 부위": "Questionable",
-        "부상 날짜": "2024-12-03",
-        "소속팀": "West Ham"
+        "부상 날짜": "2024-12-01",
+        "소속팀": "Manchester City"
     },
     {
         "선수": "L. Chiwome",
@@ -558,10 +690,70 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "O. Bobb",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-09",
-        "소속팀": "West Ham"
+        "부상 날짜": "2024-12-04",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "M. Kovacic",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-04",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "Rodri",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-04",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "J. Stones",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-04",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "N. Ake",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-07",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "O. Bobb",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-07",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "P. Foden",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-07",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "M. Kovacic",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-07",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "Rodri",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-07",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "M. Akanji",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-12-07",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "J. Stones",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-12-07",
+        "소속팀": "Manchester City"
     },
     {
         "선수": "L. Chiwome",
@@ -648,28 +840,52 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "M. Akanji",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-16",
-        "소속팀": "West Ham"
+        "부상 날짜": "2024-12-15",
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "Emerson",
+        "선수": "N. Ake",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-16",
-        "소속팀": "West Ham"
+        "부상 날짜": "2024-12-15",
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "O. Bobb",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-15",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "R. Lewis",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-15",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "Rodri",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-15",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "O. Bobb",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-21",
-        "소속팀": "West Ham"
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "C. Soler",
+        "선수": "R. Dias",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-21",
-        "소속팀": "West Ham"
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "Rodri",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-21",
+        "소속팀": "Manchester City"
     },
     {
         "선수": "R. Ait-Nouri",
@@ -708,16 +924,40 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "O. Bobb",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-26",
-        "소속팀": "West Ham"
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "L. Paqueta",
+        "선수": "R. Dias",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-26",
-        "소속팀": "West Ham"
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "Rodri",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-26",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "J. Stones",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-26",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "Ederson",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-12-26",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "M. Nunes",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-12-26",
+        "소속팀": "Manchester City"
     },
     {
         "선수": "E. Gonzalez",
@@ -756,6 +996,42 @@
         "소속팀": "Wolves"
     },
     {
+        "선수": "O. Bobb",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-29",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "R. Dias",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-29",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "Rodri",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-29",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "J. Stones",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-29",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "Ederson",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-12-29",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "M. Nunes",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-12-29",
+        "소속팀": "Manchester City"
+    },
+    {
         "선수": "E. Gonzalez",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-29",
@@ -792,46 +1068,34 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "M. Antonio",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-29",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "L. Fabianski",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-29",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "G. Rodriguez",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-29",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "T. Soucek",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-29",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "M. Antonio",
+        "선수": "O. Bobb",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-04",
-        "소속팀": "West Ham"
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "J. Bowen",
+        "선수": "R. Dias",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-04",
-        "소속팀": "West Ham"
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "L. Fabianski",
+        "선수": "Rodri",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-04",
-        "소속팀": "West Ham"
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "J. Stones",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-04",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "Ederson",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-01-04",
+        "소속팀": "Manchester City"
     },
     {
         "선수": "M. Cunha",
@@ -870,34 +1134,28 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "O. Bobb",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-14",
-        "소속팀": "West Ham"
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "J. Bowen",
+        "선수": "R. Dias",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-14",
-        "소속팀": "West Ham"
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "N. Fullkrug",
+        "선수": "Rodri",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-14",
-        "소속팀": "West Ham"
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "J. Todibo",
+        "선수": "J. Stones",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-14",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "C. Summerville",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-01-14",
-        "소속팀": "West Ham"
+        "소속팀": "Manchester City"
     },
     {
         "선수": "E. Gonzalez",
@@ -930,34 +1188,22 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "O. Bobb",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-18",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-01-19",
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "J. Bowen",
+        "선수": "Rodri",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-18",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-01-19",
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "N. Fullkrug",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-18",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "J. Todibo",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-18",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "C. Summerville",
+        "선수": "J. Stones",
         "부상 부위": "Questionable",
-        "부상 날짜": "2025-01-18",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-01-19",
+        "소속팀": "Manchester City"
     },
     {
         "선수": "E. Gonzalez",
@@ -1020,40 +1266,34 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "N. Ake",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-26",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-01-25",
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "J. Bowen",
+        "선수": "O. Bobb",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-26",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-01-25",
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "N. Fullkrug",
+        "선수": "R. Dias",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-26",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-01-25",
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "K. Mavropanos",
+        "선수": "J. Doku",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-26",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-01-25",
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "J. Todibo",
+        "선수": "Rodri",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-26",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "C. Summerville",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-01-26",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-01-25",
+        "소속팀": "Manchester City"
     },
     {
         "선수": "L. Chiwome",
@@ -1104,46 +1344,64 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "N. Ake",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-03",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-02-02",
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "N. Fullkrug",
+        "선수": "R. Dias",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-03",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-02-02",
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "J. Todibo",
+        "선수": "J. Doku",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-03",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-02-02",
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "C. Summerville",
+        "선수": "Rodri",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-02",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "O. Bobb",
         "부상 부위": "Questionable",
-        "부상 날짜": "2025-02-03",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-02-02",
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "M. Akanji",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-15",
-        "소속팀": "West Ham"
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "N. Fullkrug",
+        "선수": "O. Bobb",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-15",
-        "소속팀": "West Ham"
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "C. Summerville",
+        "선수": "C. Echeverri",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-15",
-        "소속팀": "West Ham"
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "Rodri",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-15",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "J. Grealish",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-02-15",
+        "소속팀": "Manchester City"
     },
     {
         "선수": "L. Chiwome",
@@ -1180,36 +1438,6 @@
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-16",
         "소속팀": "Wolves"
-    },
-    {
-        "선수": "M. Antonio",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-22",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "N. Fullkrug",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-22",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "L. Paqueta",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-22",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "C. Summerville",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-22",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "V. Coufal",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-02-22",
-        "소속팀": "West Ham"
     },
     {
         "선수": "E. Agbadou",
@@ -1252,6 +1480,36 @@
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-22",
         "소속팀": "Wolves"
+    },
+    {
+        "선수": "M. Akanji",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-23",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "O. Bobb",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-23",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "Rodri",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-23",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "J. Stones",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-23",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "E. Haaland",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-02-23",
+        "소속팀": "Manchester City"
     },
     {
         "선수": "E. Agbadou",
@@ -1302,34 +1560,58 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "M. Akanji",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-27",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-02-26",
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "V. Coufal",
+        "선수": "O. Bobb",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-27",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-02-26",
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "N. Fullkrug",
+        "선수": "Rodri",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-27",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-02-26",
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "L. Paqueta",
+        "선수": "J. Stones",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-27",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-02-26",
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "C. Summerville",
+        "선수": "M. Akanji",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-27",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-03-08",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "N. Ake",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-08",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "O. Bobb",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-08",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "Rodri",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-08",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "J. Stones",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-08",
+        "소속팀": "Manchester City"
     },
     {
         "선수": "L. Chiwome",
@@ -1362,52 +1644,34 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "M. Antonio",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-10",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "N. Fullkrug",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-10",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "C. Summerville",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-10",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "V. Coufal",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-03-10",
-        "소속팀": "West Ham"
-    },
-    {
-        "선수": "M. Antonio",
+        "선수": "M. Akanji",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-15",
-        "소속팀": "West Ham"
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "C. Summerville",
+        "선수": "N. Ake",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-15",
-        "소속팀": "West Ham"
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "V. Coufal",
-        "부상 부위": "Questionable",
+        "선수": "O. Bobb",
+        "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-15",
-        "소속팀": "West Ham"
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "N. Fullkrug",
-        "부상 부위": "Questionable",
+        "선수": "Rodri",
+        "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-15",
-        "소속팀": "West Ham"
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "J. Stones",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-15",
+        "소속팀": "Manchester City"
     },
     {
         "선수": "L. Chiwome",
@@ -1446,12 +1710,6 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "M. Cunha",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-04-01",
-        "소속팀": "Wolves"
-    },
-    {
         "선수": "E. Gonzalez",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-01",
@@ -1470,15 +1728,39 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "M. Antonio",
+        "선수": "M. Akanji",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-04-01",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Manchester City"
     },
     {
-        "선수": "C. Summerville",
+        "선수": "N. Ake",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-04-01",
-        "소속팀": "West Ham"
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "E. Haaland",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "Rodri",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "J. Stones",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "O. Bobb",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Manchester City"
     }
 ]

@@ -1542,12 +1542,6 @@
         "소속팀": "Southampton"
     },
     {
-        "선수": "J. Bree",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-04-02",
-        "소속팀": "Southampton"
-    },
-    {
         "선수": "R. Fraser",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-02",
@@ -1585,6 +1579,12 @@
     },
     {
         "선수": "C. Riad",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Crystal Palace"
+    },
+    {
+        "선수": "C. Richards",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-02",
         "소속팀": "Crystal Palace"

@@ -924,6 +924,12 @@
         "소속팀": "Liverpool"
     },
     {
+        "선수": "Alisson",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Liverpool"
+    },
+    {
         "선수": "J. Gomez",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-02",
@@ -943,6 +949,12 @@
     },
     {
         "선수": "M. Antonio",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-05",
+        "소속팀": "West Ham"
+    },
+    {
+        "선수": "M. Kudus",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-05",
         "소속팀": "West Ham"

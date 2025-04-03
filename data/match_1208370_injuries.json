@@ -1,15 +1,27 @@
 [
     {
-        "선수": "O. Bobb",
+        "선수": "G. Bazunu",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-08-18",
-        "소속팀": "Manchester City"
+        "부상 날짜": "2024-08-17",
+        "소속팀": "Southampton"
     },
     {
-        "선수": "Rodri",
+        "선수": "A. Lallana",
         "부상 부위": "Questionable",
-        "부상 날짜": "2024-08-18",
-        "소속팀": "Manchester City"
+        "부상 날짜": "2024-08-17",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "R. Stewart",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-08-17",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "K. Sulemana",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-08-17",
+        "소속팀": "Southampton"
     },
     {
         "선수": "C. Coady",
@@ -66,16 +78,52 @@
         "소속팀": "Leicester"
     },
     {
-        "선수": "O. Bobb",
+        "선수": "G. Bazunu",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-08-24",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "Rodri",
+        "선수": "A. Lallana",
         "부상 부위": "Questionable",
         "부상 날짜": "2024-08-24",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "J. Larios",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-08-24",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "R. Stewart",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-08-24",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "K. Sulemana",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-08-24",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "G. Bazunu",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-31",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "R. Stewart",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-31",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "K. Sulemana",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-08-31",
+        "소속팀": "Southampton"
     },
     {
         "선수": "P. Daka",
@@ -96,16 +144,16 @@
         "소속팀": "Leicester"
     },
     {
-        "선수": "O. Bobb",
+        "선수": "G. Bazunu",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-08-31",
-        "소속팀": "Manchester City"
+        "부상 날짜": "2024-09-14",
+        "소속팀": "Southampton"
     },
     {
-        "선수": "P. Foden",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2024-08-31",
-        "소속팀": "Manchester City"
+        "선수": "K. Sulemana",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-09-14",
+        "소속팀": "Southampton"
     },
     {
         "선수": "P. Daka",
@@ -132,18 +180,6 @@
         "소속팀": "Leicester"
     },
     {
-        "선수": "N. Ake",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-09-14",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "O. Bobb",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-09-14",
-        "소속팀": "Manchester City"
-    },
-    {
         "선수": "P. Daka",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-09-21",
@@ -162,22 +198,76 @@
         "소속팀": "Leicester"
     },
     {
-        "선수": "N. Ake",
+        "선수": "G. Bazunu",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-09-22",
-        "소속팀": "Manchester City"
+        "부상 날짜": "2024-09-21",
+        "소속팀": "Southampton"
     },
     {
-        "선수": "O. Bobb",
+        "선수": "J. Stephens",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-09-22",
-        "소속팀": "Manchester City"
+        "부상 날짜": "2024-09-21",
+        "소속팀": "Southampton"
     },
     {
-        "선수": "K. De Bruyne",
+        "선수": "K. Sulemana",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-09-21",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "W. Smallbone",
         "부상 부위": "Questionable",
-        "부상 날짜": "2024-09-22",
-        "소속팀": "Manchester City"
+        "부상 날짜": "2024-09-21",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "G. Bazunu",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-09-30",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "J. Stephens",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-09-30",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "K. Sulemana",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-09-30",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "W. Smallbone",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-09-30",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "G. Bazunu",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-05",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "W. Smallbone",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-05",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "J. Stephens",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-05",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "K. Sulemana",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-05",
+        "소속팀": "Southampton"
     },
     {
         "선수": "H. Choudhury",
@@ -210,28 +300,22 @@
         "소속팀": "Leicester"
     },
     {
-        "선수": "N. Ake",
+        "선수": "G. Bazunu",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-05",
-        "소속팀": "Manchester City"
+        "부상 날짜": "2024-10-19",
+        "소속팀": "Southampton"
     },
     {
-        "선수": "O. Bobb",
+        "선수": "J. Stephens",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-05",
-        "소속팀": "Manchester City"
+        "부상 날짜": "2024-10-19",
+        "소속팀": "Southampton"
     },
     {
-        "선수": "K. De Bruyne",
+        "선수": "R. Stewart",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-05",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "Rodri",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-05",
-        "소속팀": "Manchester City"
+        "부상 날짜": "2024-10-19",
+        "소속팀": "Southampton"
     },
     {
         "선수": "H. Choudhury",
@@ -256,24 +340,6 @@
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-10-19",
         "소속팀": "Leicester"
-    },
-    {
-        "선수": "O. Bobb",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-20",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "K. De Bruyne",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-20",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "Rodri",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-20",
-        "소속팀": "Manchester City"
     },
     {
         "선수": "H. Choudhury",
@@ -306,58 +372,28 @@
         "소속팀": "Leicester"
     },
     {
-        "선수": "O. Bobb",
+        "선수": "G. Bazunu",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-10-26",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "K. De Bruyne",
+        "선수": "R. Fraser",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-10-26",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "J. Doku",
+        "선수": "W. Smallbone",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-10-26",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "J. Grealish",
+        "선수": "R. Stewart",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-10-26",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "Rodri",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-26",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "K. Walker",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-26",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "O. Bobb",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-02",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "J. Grealish",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-02",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "Rodri",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-02",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
         "선수": "P. Daka",
@@ -384,34 +420,52 @@
         "소속팀": "Leicester"
     },
     {
-        "선수": "O. Bobb",
+        "선수": "G. Bazunu",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-09",
-        "소속팀": "Manchester City"
+        "부상 날짜": "2024-11-02",
+        "소속팀": "Southampton"
     },
     {
-        "선수": "R. Dias",
+        "선수": "W. Smallbone",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-09",
-        "소속팀": "Manchester City"
+        "부상 날짜": "2024-11-02",
+        "소속팀": "Southampton"
     },
     {
-        "선수": "J. Grealish",
+        "선수": "R. Stewart",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-09",
-        "소속팀": "Manchester City"
+        "부상 날짜": "2024-11-02",
+        "소속팀": "Southampton"
     },
     {
-        "선수": "Rodri",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-09",
-        "소속팀": "Manchester City"
+        "선수": "R. Fraser",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-11-02",
+        "소속팀": "Southampton"
     },
     {
-        "선수": "J. Stones",
+        "선수": "G. Bazunu",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-09",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "W. Smallbone",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-09",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "R. Stewart",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-09",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "R. Fraser",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-11-09",
+        "소속팀": "Southampton"
     },
     {
         "선수": "N. Opoku",
@@ -468,34 +522,76 @@
         "소속팀": "Leicester"
     },
     {
-        "선수": "O. Bobb",
+        "선수": "G. Bazunu",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-23",
-        "소속팀": "Manchester City"
+        "부상 날짜": "2024-11-24",
+        "소속팀": "Southampton"
     },
     {
-        "선수": "R. Dias",
+        "선수": "J. Bednarek",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-23",
-        "소속팀": "Manchester City"
+        "부상 날짜": "2024-11-24",
+        "소속팀": "Southampton"
     },
     {
-        "선수": "M. Kovacic",
+        "선수": "A. Ramsdale",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-23",
-        "소속팀": "Manchester City"
+        "부상 날짜": "2024-11-24",
+        "소속팀": "Southampton"
     },
     {
-        "선수": "Rodri",
+        "선수": "W. Smallbone",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-23",
-        "소속팀": "Manchester City"
+        "부상 날짜": "2024-11-24",
+        "소속팀": "Southampton"
     },
     {
-        "선수": "J. Doku",
+        "선수": "R. Stewart",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-24",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "G. Bazunu",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-29",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "J. Bednarek",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-29",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "A. Lallana",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-29",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "A. Ramsdale",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-29",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "W. Smallbone",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-29",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "R. Stewart",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-29",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "P. Onuachu",
         "부상 부위": "Questionable",
-        "부상 날짜": "2024-11-23",
-        "소속팀": "Manchester City"
+        "부상 날짜": "2024-11-29",
+        "소속팀": "Southampton"
     },
     {
         "선수": "I. Fatawu",
@@ -528,30 +624,6 @@
         "소속팀": "Leicester"
     },
     {
-        "선수": "O. Bobb",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-01",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "M. Kovacic",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-01",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "Rodri",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-01",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "J. Stones",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2024-12-01",
-        "소속팀": "Manchester City"
-    },
-    {
         "선수": "I. Fatawu",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-03",
@@ -582,70 +654,124 @@
         "소속팀": "Leicester"
     },
     {
-        "선수": "O. Bobb",
+        "선수": "G. Bazunu",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-04",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "M. Kovacic",
+        "선수": "T. Dibling",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-04",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "Rodri",
+        "선수": "F. Downes",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-04",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "J. Stones",
+        "선수": "T. Harwood-Bellis",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-04",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "N. Ake",
+        "선수": "A. Lallana",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-04",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "A. Ramsdale",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-04",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "W. Smallbone",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-04",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "R. Stewart",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-04",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "L. Ugochukwu",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-04",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "J. Bednarek",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-12-04",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "P. Onuachu",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-12-04",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "G. Bazunu",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-07",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "O. Bobb",
+        "선수": "A. Lallana",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-07",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "P. Foden",
+        "선수": "J. Larios",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-07",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "M. Kovacic",
+        "선수": "P. Onuachu",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-07",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "Rodri",
+        "선수": "A. Ramsdale",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-07",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "M. Akanji",
+        "선수": "W. Smallbone",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-07",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "J. Stephens",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-07",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "R. Stewart",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-07",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "J. Bednarek",
         "부상 부위": "Questionable",
         "부상 날짜": "2024-12-07",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "J. Stones",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2024-12-07",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
         "선수": "F. Buonanotte",
@@ -726,52 +852,64 @@
         "소속팀": "Leicester"
     },
     {
-        "선수": "M. Akanji",
+        "선수": "G. Bazunu",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-15",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "N. Ake",
+        "선수": "J. Larios",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-15",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "O. Bobb",
+        "선수": "W. Smallbone",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-15",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "R. Lewis",
+        "선수": "J. Stephens",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-15",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "Rodri",
+        "선수": "R. Stewart",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-15",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "O. Bobb",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-21",
-        "소속팀": "Manchester City"
+        "선수": "A. Ramsdale",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-12-15",
+        "소속팀": "Southampton"
     },
     {
-        "선수": "R. Dias",
+        "선수": "G. Bazunu",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-21",
-        "소속팀": "Manchester City"
+        "부상 날짜": "2024-12-22",
+        "소속팀": "Southampton"
     },
     {
-        "선수": "Rodri",
+        "선수": "W. Smallbone",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-21",
-        "소속팀": "Manchester City"
+        "부상 날짜": "2024-12-22",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "J. Stephens",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-22",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "R. Stewart",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-22",
+        "소속팀": "Southampton"
     },
     {
         "선수": "I. Fatawu",
@@ -810,40 +948,28 @@
         "소속팀": "Leicester"
     },
     {
-        "선수": "O. Bobb",
+        "선수": "G. Bazunu",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-26",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "R. Dias",
+        "선수": "M. Cornet",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-26",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "Rodri",
+        "선수": "W. Smallbone",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-26",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "J. Stones",
+        "선수": "R. Stewart",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-26",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "Ederson",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2024-12-26",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "M. Nunes",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2024-12-26",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
         "선수": "I. Fatawu",
@@ -930,40 +1056,28 @@
         "소속팀": "Leicester"
     },
     {
-        "선수": "O. Bobb",
+        "선수": "G. Bazunu",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-29",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "R. Dias",
+        "선수": "W. Smallbone",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-29",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "Rodri",
+        "선수": "J. Stephens",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-29",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "J. Stones",
+        "선수": "R. Stewart",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-29",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "Ederson",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2024-12-29",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "M. Nunes",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2024-12-29",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
         "선수": "I. Fatawu",
@@ -1002,58 +1116,40 @@
         "소속팀": "Leicester"
     },
     {
-        "선수": "O. Bobb",
+        "선수": "G. Bazunu",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-04",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "R. Dias",
+        "선수": "M. Fernandes",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-04",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "Rodri",
+        "선수": "J. Stephens",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-04",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "J. Stones",
+        "선수": "R. Stewart",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-04",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "Ederson",
+        "선수": "F. Downes",
         "부상 부위": "Questionable",
         "부상 날짜": "2025-01-04",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "O. Bobb",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-14",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "R. Dias",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-14",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "Rodri",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-14",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "J. Stones",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-14",
-        "소속팀": "Manchester City"
+        "선수": "W. Smallbone",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-01-04",
+        "소속팀": "Southampton"
     },
     {
         "선수": "O. Edouard",
@@ -1092,6 +1188,18 @@
         "소속팀": "Leicester"
     },
     {
+        "선수": "J. Stephens",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-16",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "R. Stewart",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-16",
+        "소속팀": "Southampton"
+    },
+    {
         "선수": "I. Fatawu",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-18",
@@ -1122,52 +1230,58 @@
         "소속팀": "Leicester"
     },
     {
-        "선수": "O. Bobb",
+        "선수": "J. Stephens",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-19",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "Rodri",
+        "선수": "R. Stewart",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-19",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "J. Stones",
+        "선수": "T. Dibling",
         "부상 부위": "Questionable",
         "부상 날짜": "2025-01-19",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "N. Ake",
+        "선수": "T. Dibling",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-25",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "O. Bobb",
+        "선수": "A. Gronbaek",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-25",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "R. Dias",
+        "선수": "J. Stephens",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-25",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "J. Doku",
+        "선수": "R. Stewart",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-25",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "Rodri",
+        "선수": "K. Sulemana",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-25",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "A. Ramsdale",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-01-25",
+        "소속팀": "Southampton"
     },
     {
         "선수": "I. Fatawu",
@@ -1230,34 +1344,22 @@
         "소속팀": "Leicester"
     },
     {
-        "선수": "N. Ake",
+        "선수": "R. Stewart",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-02",
-        "소속팀": "Manchester City"
+        "부상 날짜": "2025-02-01",
+        "소속팀": "Southampton"
     },
     {
-        "선수": "R. Dias",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-02",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "J. Doku",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-02",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "Rodri",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-02",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "O. Bobb",
+        "선수": "R. Fraser",
         "부상 부위": "Questionable",
-        "부상 날짜": "2025-02-02",
-        "소속팀": "Manchester City"
+        "부상 날짜": "2025-02-01",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "N. Wood",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-02-01",
+        "소속팀": "Southampton"
     },
     {
         "선수": "I. Fatawu",
@@ -1284,34 +1386,40 @@
         "소속팀": "Leicester"
     },
     {
-        "선수": "M. Akanji",
+        "선수": "R. Stewart",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-15",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "O. Bobb",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-15",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "C. Echeverri",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-15",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "Rodri",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-15",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "J. Grealish",
+        "선수": "F. Downes",
         "부상 부위": "Questionable",
         "부상 날짜": "2025-02-15",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "R. Fraser",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-02-15",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "T. Harwood-Bellis",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-02-15",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "A. Lallana",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-02-15",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "J. Stephens",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-02-15",
+        "소속팀": "Southampton"
     },
     {
         "선수": "I. Fatawu",
@@ -1344,58 +1452,64 @@
         "소속팀": "Leicester"
     },
     {
-        "선수": "M. Akanji",
+        "선수": "R. Fraser",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-23",
-        "소속팀": "Manchester City"
+        "부상 날짜": "2025-02-22",
+        "소속팀": "Southampton"
     },
     {
-        "선수": "O. Bobb",
+        "선수": "T. Harwood-Bellis",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-23",
-        "소속팀": "Manchester City"
+        "부상 날짜": "2025-02-22",
+        "소속팀": "Southampton"
     },
     {
-        "선수": "Rodri",
+        "선수": "A. Lallana",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-23",
-        "소속팀": "Manchester City"
+        "부상 날짜": "2025-02-22",
+        "소속팀": "Southampton"
     },
     {
-        "선수": "J. Stones",
+        "선수": "R. Stewart",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-23",
-        "소속팀": "Manchester City"
+        "부상 날짜": "2025-02-22",
+        "소속팀": "Southampton"
     },
     {
-        "선수": "E. Haaland",
+        "선수": "J. Bednarek",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-25",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "R. Fraser",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-25",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "A. Lallana",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-25",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "R. Stewart",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-25",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "L. Ugochukwu",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-25",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "J. Larios",
         "부상 부위": "Questionable",
-        "부상 날짜": "2025-02-23",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "M. Akanji",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-26",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "O. Bobb",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-26",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "Rodri",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-26",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "J. Stones",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-26",
-        "소속팀": "Manchester City"
+        "부상 날짜": "2025-02-25",
+        "소속팀": "Southampton"
     },
     {
         "선수": "I. Fatawu",
@@ -1422,34 +1536,28 @@
         "소속팀": "Leicester"
     },
     {
-        "선수": "M. Akanji",
+        "선수": "J. Bree",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-08",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "N. Ake",
+        "선수": "R. Fraser",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-08",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "O. Bobb",
-        "부상 부위": "Missing Fixture",
+        "선수": "J. Larios",
+        "부상 부위": "Questionable",
         "부상 날짜": "2025-03-08",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "Rodri",
-        "부상 부위": "Missing Fixture",
+        "선수": "R. Stewart",
+        "부상 부위": "Questionable",
         "부상 날짜": "2025-03-08",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "J. Stones",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-08",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
         "선수": "I. Fatawu",
@@ -1470,34 +1578,40 @@
         "소속팀": "Leicester"
     },
     {
-        "선수": "M. Akanji",
+        "선수": "J. Bednarek",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-15",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "N. Ake",
+        "선수": "J. Bree",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-15",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "O. Bobb",
+        "선수": "R. Fraser",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-15",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "Rodri",
+        "선수": "W. Smallbone",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-15",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
     },
     {
-        "선수": "J. Stones",
-        "부상 부위": "Missing Fixture",
+        "선수": "J. Larios",
+        "부상 부위": "Questionable",
         "부상 날짜": "2025-03-15",
-        "소속팀": "Manchester City"
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "R. Stewart",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-03-15",
+        "소속팀": "Southampton"
     },
     {
         "선수": "I. Fatawu",
@@ -1518,36 +1632,6 @@
         "소속팀": "Leicester"
     },
     {
-        "선수": "M. Akanji",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-04-02",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "N. Ake",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-04-02",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "E. Haaland",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-04-02",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "Rodri",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-04-02",
-        "소속팀": "Manchester City"
-    },
-    {
-        "선수": "J. Stones",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-04-02",
-        "소속팀": "Manchester City"
-    },
-    {
         "선수": "I. Fatawu",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-02",
@@ -1564,5 +1648,29 @@
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-02",
         "소속팀": "Leicester"
+    },
+    {
+        "선수": "R. Fraser",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "W. Smallbone",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "J. Larios",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "R. Stewart",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Southampton"
     }
 ]

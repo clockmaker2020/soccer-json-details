@@ -1,9 +1,33 @@
 [
     {
-        "선수": "B. Clark",
+        "선수": "N. Broadhead",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-08-17",
-        "소속팀": "Liverpool"
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "H. Clarke",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-17",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "J. Donacien",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-17",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "G. Hirst",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-17",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "C. Humphreys",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-08-17",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "Chermiti",
@@ -34,6 +58,42 @@
         "부상 부위": "Questionable",
         "부상 날짜": "2024-08-17",
         "소속팀": "Everton"
+    },
+    {
+        "선수": "N. Broadhead",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-24",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "W. Burns",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-24",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "H. Clarke",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-24",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "J. Donacien",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-24",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "G. Hirst",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-24",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "K. Phillips",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-24",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "J. Branthwaite",
@@ -90,28 +150,52 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "F. Chiesa",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2024-09-01",
-        "소속팀": "Liverpool"
+        "선수": "N. Broadhead",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-31",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "C. Jones",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2024-09-01",
-        "소속팀": "Liverpool"
+        "선수": "W. Burns",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-31",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "H. Elliott",
+        "선수": "H. Clarke",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-31",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "J. Donacien",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-31",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "G. Hirst",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-08-31",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "N. Broadhead",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-09-14",
-        "소속팀": "Liverpool"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "F. Chiesa",
-        "부상 부위": "Questionable",
+        "선수": "H. Clarke",
+        "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-09-14",
-        "소속팀": "Liverpool"
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "J. Donacien",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-09-14",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "J. Branthwaite",
@@ -180,28 +264,40 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "H. Elliott",
+        "선수": "J. Donacien",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-09-21",
-        "소속팀": "Liverpool"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "Alisson",
+        "선수": "N. Broadhead",
         "부상 부위": "Questionable",
         "부상 날짜": "2024-09-21",
-        "소속팀": "Liverpool"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "H. Elliott",
+        "선수": "H. Clarke",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-09-21",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "J. Donacien",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-10-05",
-        "소속팀": "Liverpool"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "F. Chiesa",
+        "선수": "N. Broadhead",
         "부상 부위": "Questionable",
         "부상 날짜": "2024-10-05",
-        "소속팀": "Liverpool"
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "J. Cajuste",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-10-05",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "A. Broja",
@@ -226,6 +322,36 @@
         "부상 부위": "Questionable",
         "부상 날짜": "2024-10-05",
         "소속팀": "Everton"
+    },
+    {
+        "선수": "J. Donacien",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-19",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "M. Luongo",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-19",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "A. Tuanzebe",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-19",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "A. Al-Hamadi",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-10-19",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "J. Cajuste",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-10-19",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "A. Broja",
@@ -258,22 +384,34 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "Alisson",
+        "선수": "J. Donacien",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-20",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2024-10-26",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "H. Elliott",
+        "선수": "J. Greaves",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-20",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2024-10-26",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "F. Chiesa",
+        "선수": "M. Luongo",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-26",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "A. Tuanzebe",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-10-26",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "B. Johnson",
         "부상 부위": "Questionable",
-        "부상 날짜": "2024-10-20",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2024-10-26",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "A. Broja",
@@ -300,58 +438,40 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "Alisson",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-27",
-        "소속팀": "Liverpool"
-    },
-    {
-        "선수": "Diogo Jota",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-27",
-        "소속팀": "Liverpool"
-    },
-    {
-        "선수": "H. Elliott",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-10-27",
-        "소속팀": "Liverpool"
-    },
-    {
-        "선수": "C. Bradley",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2024-10-27",
-        "소속팀": "Liverpool"
-    },
-    {
-        "선수": "F. Chiesa",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2024-10-27",
-        "소속팀": "Liverpool"
-    },
-    {
-        "선수": "Alisson",
+        "선수": "H. Clarke",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-02",
-        "소속팀": "Liverpool"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "F. Chiesa",
+        "선수": "J. Donacien",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-02",
-        "소속팀": "Liverpool"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "Diogo Jota",
+        "선수": "J. Greaves",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-02",
-        "소속팀": "Liverpool"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "H. Elliott",
+        "선수": "C. Ogbene",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-02",
-        "소속팀": "Liverpool"
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "J. Taylor",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-02",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "A. Tuanzebe",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-02",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "A. Broja",
@@ -414,28 +534,28 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "Alisson",
+        "선수": "J. Donacien",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-09",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2024-11-10",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "F. Chiesa",
+        "선수": "J. Greaves",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-09",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2024-11-10",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "Diogo Jota",
+        "선수": "C. Ogbene",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-09",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2024-11-10",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "H. Elliott",
+        "선수": "J. Taylor",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-11-09",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2024-11-10",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "A. Broja",
@@ -468,28 +588,70 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "T. Alexander-Arnold",
+        "선수": "J. Donacien",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-24",
-        "소속팀": "Liverpool"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "Alisson",
+        "선수": "G. Hirst",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-24",
-        "소속팀": "Liverpool"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "F. Chiesa",
+        "선수": "C. Ogbene",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-11-24",
-        "소속팀": "Liverpool"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "Diogo Jota",
-        "부상 부위": "Missing Fixture",
+        "선수": "N. Broadhead",
+        "부상 부위": "Questionable",
         "부상 날짜": "2024-11-24",
-        "소속팀": "Liverpool"
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "J. Greaves",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-11-24",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "K. Phillips",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-11-24",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "J. Donacien",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-30",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "G. Hirst",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-30",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "C. Ogbene",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-11-30",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "B. Johnson",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-11-30",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "K. Phillips",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-11-30",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "J. Garner",
@@ -516,40 +678,28 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "Alisson",
+        "선수": "J. Donacien",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-01",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2024-12-03",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "C. Bradley",
+        "선수": "G. Hirst",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-01",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2024-12-03",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "F. Chiesa",
+        "선수": "C. Ogbene",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-01",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2024-12-03",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "Diogo Jota",
+        "선수": "A. Tuanzebe",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-01",
-        "소속팀": "Liverpool"
-    },
-    {
-        "선수": "I. Konate",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-01",
-        "소속팀": "Liverpool"
-    },
-    {
-        "선수": "K. Tsimikas",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-01",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2024-12-03",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "Chermiti",
@@ -570,40 +720,28 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "Alisson",
+        "선수": "J. Donacien",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-04",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2024-12-08",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "C. Bradley",
+        "선수": "G. Hirst",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-04",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2024-12-08",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "F. Chiesa",
+        "선수": "C. Ogbene",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-04",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2024-12-08",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "Diogo Jota",
+        "선수": "A. Tuanzebe",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-04",
-        "소속팀": "Liverpool"
-    },
-    {
-        "선수": "I. Konate",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-04",
-        "소속팀": "Liverpool"
-    },
-    {
-        "선수": "K. Tsimikas",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-04",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2024-12-08",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "J. Garner",
@@ -624,28 +762,58 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "C. Bradley",
+        "선수": "J. Donacien",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-14",
-        "소속팀": "Liverpool"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "I. Konate",
+        "선수": "G. Hirst",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-14",
-        "소속팀": "Liverpool"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "A. Mac Allister",
+        "선수": "C. Ogbene",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-14",
-        "소속팀": "Liverpool"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "K. Tsimikas",
+        "선수": "A. Tuanzebe",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2024-12-14",
-        "소속팀": "Liverpool"
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "L. Delap",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-21",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "J. Donacien",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-21",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "G. Hirst",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-21",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "C. Ogbene",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-21",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "A. Tuanzebe",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-21",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "A. Broja",
@@ -670,18 +838,6 @@
         "부상 부위": "Questionable",
         "부상 날짜": "2024-12-22",
         "소속팀": "Everton"
-    },
-    {
-        "선수": "C. Bradley",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-22",
-        "소속팀": "Liverpool"
-    },
-    {
-        "선수": "I. Konate",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-22",
-        "소속팀": "Liverpool"
     },
     {
         "선수": "J. Garner",
@@ -708,16 +864,40 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "C. Bradley",
+        "선수": "J. Donacien",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-26",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2024-12-27",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "I. Konate",
+        "선수": "G. Hirst",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-26",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2024-12-27",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "S. Morsy",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-27",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "C. Ogbene",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-27",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "A. Tuanzebe",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2024-12-27",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "M. Luongo",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-12-27",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "J. Garner",
@@ -744,28 +924,34 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "C. Bradley",
+        "선수": "J. Donacien",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-29",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2024-12-30",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "F. Chiesa",
+        "선수": "G. Hirst",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-29",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2024-12-30",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "I. Konate",
+        "선수": "C. Ogbene",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-29",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2024-12-30",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "D. Szoboszlai",
+        "선수": "A. Tuanzebe",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2024-12-29",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2024-12-30",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "M. Luongo",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2024-12-30",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "S. Coleman",
@@ -792,28 +978,40 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "J. Gomez",
+        "선수": "C. Chaplin",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-05",
-        "소속팀": "Liverpool"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "D. Szoboszlai",
+        "선수": "J. Donacien",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-05",
-        "소속팀": "Liverpool"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "J. Gomez",
+        "선수": "G. Hirst",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-14",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2025-01-05",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "D. Nunez",
+        "선수": "C. Ogbene",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-14",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2025-01-05",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "A. Tuanzebe",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-05",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "M. Luongo",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-01-05",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "A. Broja",
@@ -852,16 +1050,28 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "J. Gomez",
+        "선수": "C. Chaplin",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-01-18",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2025-01-16",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "Diogo Jota",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-01-18",
-        "소속팀": "Liverpool"
+        "선수": "C. Ogbene",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-16",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "S. Szmodics",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-16",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "A. Tuanzebe",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-16",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "A. Broja",
@@ -900,6 +1110,30 @@
         "소속팀": "Everton"
     },
     {
+        "선수": "C. Chaplin",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-19",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "C. Ogbene",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-19",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "K. Phillips",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-19",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "S. Szmodics",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-01-19",
+        "소속팀": "Ipswich"
+    },
+    {
         "선수": "A. Broja",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-25",
@@ -930,28 +1164,22 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "Diogo Jota",
+        "선수": "C. Chaplin",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-25",
-        "소속팀": "Liverpool"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "J. Gomez",
+        "선수": "C. Ogbene",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-25",
-        "소속팀": "Liverpool"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "C. Jones",
-        "부상 부위": "Questionable",
+        "선수": "S. Szmodics",
+        "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-01-25",
-        "소속팀": "Liverpool"
-    },
-    {
-        "선수": "J. Gomez",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-02-01",
-        "소속팀": "Liverpool"
+        "소속팀": "Ipswich"
     },
     {
         "선수": "A. Broja",
@@ -988,6 +1216,30 @@
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-01",
         "소속팀": "Everton"
+    },
+    {
+        "선수": "W. Burns",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-01",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "C. Chaplin",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-01",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "C. Ogbene",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-01",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "S. Szmodics",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-01",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "A. Broja",
@@ -1032,10 +1284,34 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "J. Gomez",
+        "선수": "W. Burns",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-12",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2025-02-15",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "C. Chaplin",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-15",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "C. Ogbene",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-15",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "C. Walton",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-15",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "S. Szmodics",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-02-15",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "A. Broja",
@@ -1092,36 +1368,6 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "J. Gomez",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-16",
-        "소속팀": "Liverpool"
-    },
-    {
-        "선수": "C. Jones",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-16",
-        "소속팀": "Liverpool"
-    },
-    {
-        "선수": "C. Gakpo",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-02-16",
-        "소속팀": "Liverpool"
-    },
-    {
-        "선수": "J. Gomez",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-19",
-        "소속팀": "Liverpool"
-    },
-    {
-        "선수": "C. Gakpo",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-02-19",
-        "소속팀": "Liverpool"
-    },
-    {
         "선수": "A. Broja",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-22",
@@ -1170,16 +1416,40 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "C. Bradley",
+        "선수": "W. Burns",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-23",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2025-02-22",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "J. Gomez",
+        "선수": "C. Chaplin",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-02-23",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2025-02-22",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "J. Enciso",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-22",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "C. Ogbene",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-22",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "A. Tuanzebe",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-22",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "C. Walton",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-02-22",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "A. Broja",
@@ -1218,40 +1488,76 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "C. Bradley",
+        "선수": "W. Burns",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-26",
-        "소속팀": "Liverpool"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "J. Gomez",
+        "선수": "J. Enciso",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-02-26",
-        "소속팀": "Liverpool"
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "C. Bradley",
+        "선수": "C. Ogbene",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-08",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2025-02-26",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "J. Gomez",
+        "선수": "C. Walton",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-08",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2025-02-26",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "T. Morton",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-03-08",
-        "소속팀": "Liverpool"
-    },
-    {
-        "선수": "C. Gakpo",
+        "선수": "C. Chaplin",
         "부상 부위": "Questionable",
+        "부상 날짜": "2025-02-26",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "K. Phillips",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-02-26",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "W. Burns",
+        "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-03-08",
-        "소속팀": "Liverpool"
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "C. Chaplin",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-08",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "A. Muric",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-08",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "C. Ogbene",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-08",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "S. Szmodics",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-08",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "A. Tuanzebe",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-08",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "A. Broja",
@@ -1308,28 +1614,64 @@
         "소속팀": "Everton"
     },
     {
-        "선수": "T. Alexander-Arnold",
+        "선수": "W. Burns",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-04-02",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2025-03-15",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "J. Gomez",
+        "선수": "C. Chaplin",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-04-02",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2025-03-15",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "T. Morton",
+        "선수": "A. Muric",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-04-02",
-        "소속팀": "Liverpool"
+        "부상 날짜": "2025-03-15",
+        "소속팀": "Ipswich"
     },
     {
-        "선수": "C. Bradley",
-        "부상 부위": "Questionable",
+        "선수": "C. Ogbene",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-15",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "S. Szmodics",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-15",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "A. Tuanzebe",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-03-15",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "W. Burns",
+        "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-02",
-        "소속팀": "Liverpool"
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "A. Muric",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "C. Ogbene",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "S. Szmodics",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-02",
+        "소속팀": "Ipswich"
     },
     {
         "선수": "D. Calvert-Lewin",
@@ -1366,5 +1708,29 @@
         "부상 부위": "Questionable",
         "부상 날짜": "2025-04-05",
         "소속팀": "Everton"
+    },
+    {
+        "선수": "W. Burns",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-05",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "A. Muric",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-05",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "C. Ogbene",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-05",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "S. Szmodics",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-05",
+        "소속팀": "Ipswich"
     }
 ]

@@ -1944,6 +1944,12 @@
         "소속팀": "Wolves"
     },
     {
+        "선수": "M. Cunha",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-05",
+        "소속팀": "Wolves"
+    },
+    {
         "선수": "E. Gonzalez",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-05",
@@ -1960,5 +1966,29 @@
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-05",
         "소속팀": "Wolves"
+    },
+    {
+        "선수": "K. Danso",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-06",
+        "소속팀": "Tottenham"
+    },
+    {
+        "선수": "R. Dragusin",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-06",
+        "소속팀": "Tottenham"
+    },
+    {
+        "선수": "D. Kulusevski",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-06",
+        "소속팀": "Tottenham"
+    },
+    {
+        "선수": "Richarlison",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-06",
+        "소속팀": "Tottenham"
     }
 ]

@@ -1560,10 +1560,10 @@
         "소속팀": "Crystal Palace"
     },
     {
-        "선수": "J. Kluivert",
-        "부상 부위": "Missing Fixture",
+        "선수": "C. Richards",
+        "부상 부위": "Questionable",
         "부상 날짜": "2025-04-05",
-        "소속팀": "Bournemouth"
+        "소속팀": "Crystal Palace"
     },
     {
         "선수": "L. Sinisterra",
@@ -1585,6 +1585,12 @@
     },
     {
         "선수": "J. Araujo",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-04-05",
+        "소속팀": "Bournemouth"
+    },
+    {
+        "선수": "J. Kluivert",
         "부상 부위": "Questionable",
         "부상 날짜": "2025-04-05",
         "소속팀": "Bournemouth"

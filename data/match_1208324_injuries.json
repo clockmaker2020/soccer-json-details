@@ -1756,5 +1756,35 @@
         "부상 부위": "Questionable",
         "부상 날짜": "2025-04-03",
         "소속팀": "Chelsea"
+    },
+    {
+        "선수": "F. Carvalho",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-06",
+        "소속팀": "Brentford"
+    },
+    {
+        "선수": "O. Kellyman",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-06",
+        "소속팀": "Chelsea"
+    },
+    {
+        "선수": "R. Lavia",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-06",
+        "소속팀": "Chelsea"
+    },
+    {
+        "선수": "M. Mudryk",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-06",
+        "소속팀": "Chelsea"
+    },
+    {
+        "선수": "M. Guiu",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-04-06",
+        "소속팀": "Chelsea"
     }
 ]

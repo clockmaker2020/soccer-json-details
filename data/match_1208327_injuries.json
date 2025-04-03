@@ -964,5 +964,47 @@
         "부상 부위": "Questionable",
         "부상 날짜": "2025-04-02",
         "소속팀": "Liverpool"
+    },
+    {
+        "선수": "R. Nelson",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-06",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "K. Tete",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-06",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "H. Wilson",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-06",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "T. Alexander-Arnold",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-06",
+        "소속팀": "Liverpool"
+    },
+    {
+        "선수": "Alisson",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-06",
+        "소속팀": "Liverpool"
+    },
+    {
+        "선수": "J. Gomez",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-06",
+        "소속팀": "Liverpool"
+    },
+    {
+        "선수": "C. Bradley",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-04-06",
+        "소속팀": "Liverpool"
     }
 ]

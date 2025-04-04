@@ -1380,14 +1380,14 @@
         "소속팀": "West Ham"
     },
     {
-        "선수": "M. Kudus",
+        "선수": "C. Summerville",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-05",
         "소속팀": "West Ham"
     },
     {
-        "선수": "C. Summerville",
-        "부상 부위": "Missing Fixture",
+        "선수": "M. Kudus",
+        "부상 부위": "Questionable",
         "부상 날짜": "2025-04-05",
         "소속팀": "West Ham"
     },
@@ -1411,7 +1411,7 @@
     },
     {
         "선수": "Richarlison",
-        "부상 부위": "Missing Fixture",
+        "부상 부위": "Questionable",
         "부상 날짜": "2025-04-06",
         "소속팀": "Tottenham"
     }

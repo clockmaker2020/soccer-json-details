@@ -1,5 +1,5 @@
 {
-    "현재 점수": "2 - 0",
+    "현재 점수": "2 - 1",
     "득점 기록": " - ",
     "주요 경기 이벤트": [
         {
@@ -13,6 +13,78 @@
             "선수": "D. Malen",
             "팀": "Aston Villa",
             "시간": 15
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "E. Konsa",
+            "팀": "Aston Villa",
+            "시간": 46
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "Jota Silva",
+            "팀": "Nottingham Forest",
+            "시간": 46
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "Morato",
+            "팀": "Nottingham Forest",
+            "시간": 49
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "M. Asensio",
+            "팀": "Aston Villa",
+            "시간": 51
+        },
+        {
+            "이벤트 종류": "Goal",
+            "선수": "Jota Silva",
+            "팀": "Nottingham Forest",
+            "시간": 58
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "M. Rashford",
+            "팀": "Aston Villa",
+            "시간": 62
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "J. Ramsey",
+            "팀": "Aston Villa",
+            "시간": 62
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "B. Kamara",
+            "팀": "Aston Villa",
+            "시간": 62
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "Jota Silva",
+            "팀": "Nottingham Forest",
+            "시간": 73
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "J. McGinn",
+            "팀": "Aston Villa",
+            "시간": 74
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "R. Sosa",
+            "팀": "Nottingham Forest",
+            "시간": 75
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "W. Boly",
+            "팀": "Nottingham Forest",
+            "시간": 75
         }
     ]
 }

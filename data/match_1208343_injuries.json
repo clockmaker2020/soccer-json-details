@@ -1224,13 +1224,13 @@
         "소속팀": "Newcastle"
     },
     {
-        "선수": "R. Barkley",
-        "부상 부위": "Missing Fixture",
+        "선수": "L. Bailey",
+        "부상 부위": "Questionable",
         "부상 날짜": "2025-04-05",
         "소속팀": "Aston Villa"
     },
     {
-        "선수": "L. Bailey",
+        "선수": "R. Barkley",
         "부상 부위": "Questionable",
         "부상 날짜": "2025-04-05",
         "소속팀": "Aston Villa"
@@ -1243,12 +1243,6 @@
     },
     {
         "선수": "L. Hall",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-04-07",
-        "소속팀": "Newcastle"
-    },
-    {
-        "선수": "A. Isak",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-07",
         "소속팀": "Newcastle"

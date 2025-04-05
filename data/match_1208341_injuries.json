@@ -1356,13 +1356,13 @@
         "소속팀": "Southampton"
     },
     {
-        "선수": "R. Barkley",
-        "부상 부위": "Missing Fixture",
+        "선수": "L. Bailey",
+        "부상 부위": "Questionable",
         "부상 날짜": "2025-04-05",
         "소속팀": "Aston Villa"
     },
     {
-        "선수": "L. Bailey",
+        "선수": "R. Barkley",
         "부상 부위": "Questionable",
         "부상 날짜": "2025-04-05",
         "소속팀": "Aston Villa"
@@ -1380,13 +1380,19 @@
         "소속팀": "Southampton"
     },
     {
-        "선수": "W. Smallbone",
-        "부상 부위": "Missing Fixture",
+        "선수": "J. Larios",
+        "부상 부위": "Questionable",
         "부상 날짜": "2025-04-06",
         "소속팀": "Southampton"
     },
     {
         "선수": "P. Onuachu",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-04-06",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "W. Smallbone",
         "부상 부위": "Questionable",
         "부상 날짜": "2025-04-06",
         "소속팀": "Southampton"

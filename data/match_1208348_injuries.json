@@ -1662,18 +1662,6 @@
         "소속팀": "Arsenal"
     },
     {
-        "선수": "J. Timber",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-04-05",
-        "소속팀": "Arsenal"
-    },
-    {
-        "선수": "B. White",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-04-05",
-        "소속팀": "Arsenal"
-    },
-    {
         "선수": "W. Burns",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-05",
@@ -1700,12 +1688,6 @@
     {
         "선수": "S. Szmodics",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-04-05",
-        "소속팀": "Ipswich"
-    },
-    {
-        "선수": "L. Davis",
-        "부상 부위": "Questionable",
         "부상 날짜": "2025-04-05",
         "소속팀": "Ipswich"
     }

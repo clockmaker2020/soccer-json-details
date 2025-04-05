@@ -1794,12 +1794,6 @@
         "소속팀": "Bournemouth"
     },
     {
-        "선수": "J. Araujo",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-04-05",
-        "소속팀": "Bournemouth"
-    },
-    {
         "선수": "J. Kluivert",
         "부상 부위": "Questionable",
         "부상 날짜": "2025-04-05",
@@ -1824,12 +1818,6 @@
         "소속팀": "Manchester United"
     },
     {
-        "선수": "K. Mainoo",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-04-06",
-        "소속팀": "Manchester United"
-    },
-    {
         "선수": "L. Martinez",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-06",
@@ -1838,6 +1826,18 @@
     {
         "선수": "L. Shaw",
         "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-06",
+        "소속팀": "Manchester United"
+    },
+    {
+        "선수": "K. Mainoo",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-04-06",
+        "소속팀": "Manchester United"
+    },
+    {
+        "선수": "M. de Ligt",
+        "부상 부위": "Questionable",
         "부상 날짜": "2025-04-06",
         "소속팀": "Manchester United"
     }

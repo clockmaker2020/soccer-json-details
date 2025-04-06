@@ -7,6 +7,60 @@
             "선수": "R. Dias",
             "팀": "Manchester City",
             "시간": 1
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "B. Silva",
+            "팀": "Manchester City",
+            "시간": 46
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "J. Doku",
+            "팀": "Manchester City",
+            "시간": 58
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "V. Lindelof",
+            "팀": "Manchester United",
+            "시간": 58
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "D. Dalot",
+            "팀": "Manchester United",
+            "시간": 67
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "M. Mount",
+            "팀": "Manchester United",
+            "시간": 71
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "J. Zirkzee",
+            "팀": "Manchester United",
+            "시간": 71
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "J. Grealish",
+            "팀": "Manchester City",
+            "시간": 74
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "R. Lewis",
+            "팀": "Manchester City",
+            "시간": 74
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "M. Mount",
+            "팀": "Manchester United",
+            "시간": 76
         }
     ]
 }

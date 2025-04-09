@@ -1840,5 +1840,53 @@
         "부상 부위": "Questionable",
         "부상 날짜": "2025-04-07",
         "소속팀": "Newcastle"
+    },
+    {
+        "선수": "Igor",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-12",
+        "소속팀": "Brighton"
+    },
+    {
+        "선수": "F. Kadioglu",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-12",
+        "소속팀": "Brighton"
+    },
+    {
+        "선수": "T. Lamptey",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-12",
+        "소속팀": "Brighton"
+    },
+    {
+        "선수": "J. Milner",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-12",
+        "소속팀": "Brighton"
+    },
+    {
+        "선수": "G. Rutter",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-12",
+        "소속팀": "Brighton"
+    },
+    {
+        "선수": "J. Steele",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-12",
+        "소속팀": "Brighton"
+    },
+    {
+        "선수": "A. Webster",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-12",
+        "소속팀": "Brighton"
+    },
+    {
+        "선수": "J. P. van Hecke",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-12",
+        "소속팀": "Brighton"
     }
 ]

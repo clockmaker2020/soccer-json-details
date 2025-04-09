@@ -1708,5 +1708,29 @@
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-06",
         "소속팀": "Chelsea"
+    },
+    {
+        "선수": "D. Calvert-Lewin",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-12",
+        "소속팀": "Everton"
+    },
+    {
+        "선수": "O. Mangala",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-12",
+        "소속팀": "Everton"
+    },
+    {
+        "선수": "V. Mykolenko",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-12",
+        "소속팀": "Everton"
+    },
+    {
+        "선수": "J. Lindstrom",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-04-12",
+        "소속팀": "Everton"
     }
 ]

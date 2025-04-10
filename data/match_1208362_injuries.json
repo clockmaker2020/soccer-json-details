@@ -1896,6 +1896,12 @@
         "소속팀": "Leicester"
     },
     {
+        "선수": "F. Buonanotte",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-12",
+        "소속팀": "Leicester"
+    },
+    {
         "선수": "I. Fatawu",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-12",
@@ -1909,7 +1915,7 @@
     },
     {
         "선수": "H. Winks",
-        "부상 부위": "Missing Fixture",
+        "부상 부위": "Questionable",
         "부상 날짜": "2025-04-12",
         "소속팀": "Leicester"
     }

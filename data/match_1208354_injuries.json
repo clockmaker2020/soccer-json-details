@@ -1596,6 +1596,12 @@
         "소속팀": "Crystal Palace"
     },
     {
+        "선수": "M. Lacroix",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-12",
+        "소속팀": "Crystal Palace"
+    },
+    {
         "선수": "E. Nketiah",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-12",
@@ -1604,12 +1610,6 @@
     {
         "선수": "C. Riad",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-04-12",
-        "소속팀": "Crystal Palace"
-    },
-    {
-        "선수": "M. Lacroix",
-        "부상 부위": "Questionable",
         "부상 날짜": "2025-04-12",
         "소속팀": "Crystal Palace"
     },
@@ -1646,6 +1646,18 @@
     {
         "선수": "T. Tomiyasu",
         "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-12",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "D. Rice",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-04-12",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "B. Saka",
+        "부상 부위": "Questionable",
         "부상 날짜": "2025-04-12",
         "소속팀": "Arsenal"
     }

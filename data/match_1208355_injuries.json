@@ -1608,6 +1608,12 @@
         "소속팀": "Brighton"
     },
     {
+        "선수": "J. Veltman",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-12",
+        "소속팀": "Brighton"
+    },
+    {
         "선수": "A. Webster",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-12",
@@ -1620,9 +1626,21 @@
         "소속팀": "Brighton"
     },
     {
-        "선수": "J. Veltman",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-04-12",
-        "소속팀": "Brighton"
+        "선수": "M. Antonio",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-13",
+        "소속팀": "West Ham"
+    },
+    {
+        "선수": "A. Cresswell",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-13",
+        "소속팀": "West Ham"
+    },
+    {
+        "선수": "C. Summerville",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-13",
+        "소속팀": "West Ham"
     }
 ]

@@ -1264,5 +1264,35 @@
         "부상 부위": "Questionable",
         "부상 날짜": "2025-04-12",
         "소속팀": "Aston Villa"
+    },
+    {
+        "선수": "S. Botman",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-13",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "L. Hall",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-13",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "J. Lascelles",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-13",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "J. Willock",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-13",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "A. Gordon",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-04-13",
+        "소속팀": "Newcastle"
     }
 ]

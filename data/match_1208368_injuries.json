@@ -1122,6 +1122,12 @@
         "소속팀": "Crystal Palace"
     },
     {
+        "선수": "M. Lacroix",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-12",
+        "소속팀": "Crystal Palace"
+    },
+    {
         "선수": "E. Nketiah",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-12",
@@ -1130,12 +1136,6 @@
     {
         "선수": "C. Riad",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-04-12",
-        "소속팀": "Crystal Palace"
-    },
-    {
-        "선수": "M. Lacroix",
-        "부상 부위": "Questionable",
         "부상 날짜": "2025-04-12",
         "소속팀": "Crystal Palace"
     },
@@ -1153,12 +1153,18 @@
     },
     {
         "선수": "T. Awoniyi",
-        "부상 부위": "Questionable",
+        "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-12",
         "소속팀": "Nottingham Forest"
     },
     {
         "선수": "A. Elanga",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-04-12",
+        "소속팀": "Nottingham Forest"
+    },
+    {
+        "선수": "C. Wood",
         "부상 부위": "Questionable",
         "부상 날짜": "2025-04-12",
         "소속팀": "Nottingham Forest"

@@ -1710,6 +1710,12 @@
         "소속팀": "Crystal Palace"
     },
     {
+        "선수": "M. Lacroix",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-12",
+        "소속팀": "Crystal Palace"
+    },
+    {
         "선수": "E. Nketiah",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-12",
@@ -1722,15 +1728,27 @@
         "소속팀": "Crystal Palace"
     },
     {
-        "선수": "M. Lacroix",
+        "선수": "C. Richards",
         "부상 부위": "Questionable",
         "부상 날짜": "2025-04-12",
         "소속팀": "Crystal Palace"
     },
     {
-        "선수": "C. Richards",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-04-12",
-        "소속팀": "Crystal Palace"
+        "선수": "K. Danso",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-13",
+        "소속팀": "Tottenham"
+    },
+    {
+        "선수": "R. Dragusin",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-13",
+        "소속팀": "Tottenham"
+    },
+    {
+        "선수": "D. Kulusevski",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-13",
+        "소속팀": "Tottenham"
     }
 ]

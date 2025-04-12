@@ -1,5 +1,5 @@
 {
-    "현재 점수": "2 - 2",
+    "현재 점수": "4 - 2",
     "득점 기록": " - ",
     "주요 경기 이벤트": [
         {
@@ -31,6 +31,60 @@
             "선수": "O. Marmoush",
             "팀": "Manchester City",
             "시간": 36
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "Nico",
+            "팀": "Manchester City",
+            "시간": 40
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "W. Hughes",
+            "팀": "Crystal Palace",
+            "시간": 46
+        },
+        {
+            "이벤트 종류": "Goal",
+            "선수": "M. Kovacic",
+            "팀": "Manchester City",
+            "시간": 47
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "M. Lacroix",
+            "팀": "Crystal Palace",
+            "시간": 54
+        },
+        {
+            "이벤트 종류": "Goal",
+            "선수": "J. McAtee",
+            "팀": "Manchester City",
+            "시간": 56
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "B. Chilwell",
+            "팀": "Crystal Palace",
+            "시간": 63
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "N. Clyne",
+            "팀": "Crystal Palace",
+            "시간": 63
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "J. McAtee",
+            "팀": "Manchester City",
+            "시간": 68
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "S. Ortega",
+            "팀": "Manchester City",
+            "시간": 71
         }
     ]
 }

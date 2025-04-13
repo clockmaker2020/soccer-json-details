@@ -1,6 +1,6 @@
 {
-    "현재 점수": "3 - 1",
-    "득점 기록": " - ",
+    "현재 점수": "4 - 1",
+    "득점 기록": "4 - 1",
     "주요 경기 이벤트": [
         {
             "이벤트 종류": "Card",
@@ -55,6 +55,54 @@
             "선수": "H. Barnes",
             "팀": "Newcastle",
             "시간": 64
+        },
+        {
+            "이벤트 종류": "Goal",
+            "선수": "Bruno Guimaraes",
+            "팀": "Newcastle",
+            "시간": 77
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "C. Wilson",
+            "팀": "Newcastle",
+            "시간": 79
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "E. Krafth",
+            "팀": "Newcastle",
+            "시간": 79
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "A. Gordon",
+            "팀": "Newcastle",
+            "시간": 79
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "L. Shaw",
+            "팀": "Manchester United",
+            "시간": 79
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "K. Mainoo",
+            "팀": "Manchester United",
+            "시간": 82
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "L. Miley",
+            "팀": "Newcastle",
+            "시간": 85
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "S. Longstaff",
+            "팀": "Newcastle",
+            "시간": 85
         }
     ]
 }

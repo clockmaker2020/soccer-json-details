@@ -7,6 +7,18 @@
             "선수": "A. Semenyo",
             "팀": "Bournemouth",
             "시간": 1
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "M. Senesi",
+            "팀": "Bournemouth",
+            "시간": 44
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "I. Zabarnyi",
+            "팀": "Bournemouth",
+            "시간": 46
         }
     ]
 }

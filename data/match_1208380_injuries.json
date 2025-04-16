@@ -1684,5 +1684,53 @@
         "부상 부위": "Questionable",
         "부상 날짜": "2025-04-12",
         "소속팀": "Southampton"
+    },
+    {
+        "선수": "M. Akanji",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-19",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "N. Ake",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-19",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "E. Haaland",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-19",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "Rodri",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-19",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "J. Stones",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-19",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "Ederson",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-04-19",
+        "소속팀": "Manchester City"
+    },
+    {
+        "선수": "A. Gronbaek",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-19",
+        "소속팀": "Southampton"
+    },
+    {
+        "선수": "C. Taylor",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-04-19",
+        "소속팀": "Southampton"
     }
 ]

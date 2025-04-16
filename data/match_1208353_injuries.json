@@ -1894,5 +1894,17 @@
         "부상 부위": "Questionable",
         "부상 날짜": "2025-04-14",
         "소속팀": "Bournemouth"
+    },
+    {
+        "선수": "R. Christie",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-19",
+        "소속팀": "Bournemouth"
+    },
+    {
+        "선수": "E. Unal",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-19",
+        "소속팀": "Bournemouth"
     }
 ]

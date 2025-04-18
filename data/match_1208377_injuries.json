@@ -1530,12 +1530,6 @@
         "소속팀": "West Ham"
     },
     {
-        "선수": "A. Cresswell",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-04-19",
-        "소속팀": "West Ham"
-    },
-    {
         "선수": "C. Summerville",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-19",
@@ -1573,6 +1567,12 @@
     },
     {
         "선수": "J. Zirkzee",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-20",
+        "소속팀": "Manchester United"
+    },
+    {
+        "선수": "M. de Ligt",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-20",
         "소속팀": "Manchester United"

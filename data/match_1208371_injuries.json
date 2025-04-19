@@ -1884,12 +1884,6 @@
         "소속팀": "Wolves"
     },
     {
-        "선수": "M. Akanji",
-        "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-04-19",
-        "소속팀": "Manchester City"
-    },
-    {
         "선수": "N. Ake",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-19",
@@ -1914,13 +1908,13 @@
         "소속팀": "Manchester City"
     },
     {
-        "선수": "Ederson",
+        "선수": "M. Akanji",
         "부상 부위": "Questionable",
         "부상 날짜": "2025-04-19",
         "소속팀": "Manchester City"
     },
     {
-        "선수": "P. Foden",
+        "선수": "Ederson",
         "부상 부위": "Questionable",
         "부상 날짜": "2025-04-19",
         "소속팀": "Manchester City"

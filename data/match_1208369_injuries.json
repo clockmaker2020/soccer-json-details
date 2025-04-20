@@ -1830,6 +1830,12 @@
         "소속팀": "Ipswich"
     },
     {
+        "선수": "O. Hutchinson",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-20",
+        "소속팀": "Ipswich"
+    },
+    {
         "선수": "A. Muric",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-20",
@@ -1856,6 +1862,12 @@
     {
         "선수": "S. Szmodics",
         "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-20",
+        "소속팀": "Ipswich"
+    },
+    {
+        "선수": "L. Delap",
+        "부상 부위": "Questionable",
         "부상 날짜": "2025-04-20",
         "소속팀": "Ipswich"
     }

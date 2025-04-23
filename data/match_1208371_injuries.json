@@ -1990,5 +1990,47 @@
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-22",
         "소속팀": "Manchester City"
+    },
+    {
+        "선수": "L. Chiwome",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-26",
+        "소속팀": "Wolves"
+    },
+    {
+        "선수": "E. Gonzalez",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-26",
+        "소속팀": "Wolves"
+    },
+    {
+        "선수": "S. Johnstone",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-26",
+        "소속팀": "Wolves"
+    },
+    {
+        "선수": "Y. Mosquera",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-26",
+        "소속팀": "Wolves"
+    },
+    {
+        "선수": "J. Bellegarde",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-04-26",
+        "소속팀": "Wolves"
+    },
+    {
+        "선수": "Hwang Hee-Chan",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-04-26",
+        "소속팀": "Wolves"
+    },
+    {
+        "선수": "Pedro Lima",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-04-26",
+        "소속팀": "Wolves"
     }
 ]

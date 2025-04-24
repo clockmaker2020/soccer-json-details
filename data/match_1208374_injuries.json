@@ -1428,6 +1428,12 @@
         "소속팀": "Fulham"
     },
     {
+        "선수": "A. Broja",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-04-26",
+        "소속팀": "Everton"
+    },
+    {
         "선수": "D. Calvert-Lewin",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-26",
@@ -1447,7 +1453,7 @@
     },
     {
         "선수": "J. Tarkowski",
-        "부상 부위": "Questionable",
+        "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-26",
         "소속팀": "Everton"
     },

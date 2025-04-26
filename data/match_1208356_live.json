@@ -7,6 +7,36 @@
             "선수": "N. Jackson",
             "팀": "Chelsea",
             "시간": 27
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "C. Alcaraz",
+            "팀": "Everton",
+            "시간": 46
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "D. McNeil",
+            "팀": "Everton",
+            "시간": 63
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "A. Young",
+            "팀": "Everton",
+            "시간": 64
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "Chermiti",
+            "팀": "Everton",
+            "시간": 64
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "R. James",
+            "팀": "Chelsea",
+            "시간": 67
         }
     ]
 }

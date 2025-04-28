@@ -1288,5 +1288,23 @@
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-04-26",
         "소속팀": "Chelsea"
+    },
+    {
+        "선수": "Z. Abbott",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-05-01",
+        "소속팀": "Nottingham Forest"
+    },
+    {
+        "선수": "O. Aina",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-05-01",
+        "소속팀": "Nottingham Forest"
+    },
+    {
+        "선수": "E. da Silva Moreira",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-05-01",
+        "소속팀": "Nottingham Forest"
     }
 ]

@@ -2188,5 +2188,29 @@
         "부상 부위": "Questionable",
         "부상 날짜": "2025-04-26",
         "소속팀": "Wolves"
+    },
+    {
+        "선수": "F. Carvalho",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-01",
+        "소속팀": "Brentford"
+    },
+    {
+        "선수": "J. Dasilva",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-01",
+        "소속팀": "Brentford"
+    },
+    {
+        "선수": "I. Thiago",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-01",
+        "소속팀": "Brentford"
+    },
+    {
+        "선수": "Y. E. Konak",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-05-01",
+        "소속팀": "Brentford"
     }
 ]

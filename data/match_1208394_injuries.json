@@ -1402,5 +1402,23 @@
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-05-02",
         "소속팀": "Manchester City"
+    },
+    {
+        "선수": "R. Nelson",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-03",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "Rodrigo Muniz",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-03",
+        "소속팀": "Fulham"
+    },
+    {
+        "선수": "A. Iwobi",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-05-03",
+        "소속팀": "Fulham"
     }
 ]

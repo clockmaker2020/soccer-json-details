@@ -1,5 +1,5 @@
 {
-    "현재 점수": "0 - 0",
+    "현재 점수": "0 - 2",
     "득점 기록": " - ",
     "주요 경기 이벤트": [
         {
@@ -12,13 +12,85 @@
             "이벤트 종류": "Card",
             "선수": "K. Lewis-Potter",
             "팀": "Brentford",
-            "시간": 12
+            "시간": 11
         },
         {
             "이벤트 종류": "Card",
             "선수": "E. Anderson",
             "팀": "Nottingham Forest",
             "시간": 18
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "B. Mbeumo",
+            "팀": "Brentford",
+            "시간": 36
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "C. Norgaard",
+            "팀": "Brentford",
+            "시간": 42
+        },
+        {
+            "이벤트 종류": "Goal",
+            "선수": "K. Schade",
+            "팀": "Brentford",
+            "시간": 44
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "N. Dominguez",
+            "팀": "Nottingham Forest",
+            "시간": 46
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "R. Henry",
+            "팀": "Brentford",
+            "시간": 46
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "T. Awoniyi",
+            "팀": "Nottingham Forest",
+            "시간": 61
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "Y. Yarmolyuk",
+            "팀": "Brentford",
+            "시간": 63
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "N. Williams",
+            "팀": "Nottingham Forest",
+            "시간": 63
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "M. Jensen",
+            "팀": "Brentford",
+            "시간": 67
+        },
+        {
+            "이벤트 종류": "Goal",
+            "선수": "Y. Wissa",
+            "팀": "Brentford",
+            "시간": 70
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "Jota Silva",
+            "팀": "Nottingham Forest",
+            "시간": 75
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "I. Sangare",
+            "팀": "Nottingham Forest",
+            "시간": 75
         }
     ]
 }

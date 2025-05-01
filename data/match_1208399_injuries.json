@@ -1290,21 +1290,51 @@
         "소속팀": "Chelsea"
     },
     {
-        "선수": "Z. Abbott",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-05-01",
-        "소속팀": "Nottingham Forest"
-    },
-    {
-        "선수": "O. Aina",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-05-01",
-        "소속팀": "Nottingham Forest"
-    },
-    {
         "선수": "E. da Silva Moreira",
         "부상 부위": "Questionable",
         "부상 날짜": "2025-05-01",
         "소속팀": "Nottingham Forest"
+    },
+    {
+        "선수": "D. D. Fofana",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-04",
+        "소속팀": "Chelsea"
+    },
+    {
+        "선수": "W. Fofana",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-04",
+        "소속팀": "Chelsea"
+    },
+    {
+        "선수": "M. Gusto",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-04",
+        "소속팀": "Chelsea"
+    },
+    {
+        "선수": "O. Kellyman",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-04",
+        "소속팀": "Chelsea"
+    },
+    {
+        "선수": "M. Mudryk",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-04",
+        "소속팀": "Chelsea"
+    },
+    {
+        "선수": "C. Nkunku",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-04",
+        "소속팀": "Chelsea"
+    },
+    {
+        "선수": "R. Sanchez",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-04",
+        "소속팀": "Chelsea"
     }
 ]

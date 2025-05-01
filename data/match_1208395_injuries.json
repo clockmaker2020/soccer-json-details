@@ -1524,6 +1524,12 @@
         "소속팀": "Ipswich"
     },
     {
+        "선수": "L. Davis",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-03",
+        "소속팀": "Ipswich"
+    },
+    {
         "선수": "B. Johnson",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-05-03",
@@ -1554,15 +1560,33 @@
         "소속팀": "Ipswich"
     },
     {
+        "선수": "C. Townsend",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-03",
+        "소속팀": "Ipswich"
+    },
+    {
         "선수": "N. Broadhead",
         "부상 부위": "Questionable",
         "부상 날짜": "2025-05-03",
         "소속팀": "Ipswich"
     },
     {
-        "선수": "C. Townsend",
+        "선수": "A. Tuanzebe",
         "부상 부위": "Questionable",
         "부상 날짜": "2025-05-03",
         "소속팀": "Ipswich"
+    },
+    {
+        "선수": "M. Antonio",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-04",
+        "소속팀": "West Ham"
+    },
+    {
+        "선수": "E. Alvarez",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-05-04",
+        "소속팀": "West Ham"
     }
 ]

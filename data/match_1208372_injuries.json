@@ -1492,5 +1492,29 @@
         "부상 부위": "Questionable",
         "부상 날짜": "2025-04-27",
         "소속팀": "Tottenham"
+    },
+    {
+        "선수": "M. Antonio",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-04",
+        "소속팀": "West Ham"
+    },
+    {
+        "선수": "E. Alvarez",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-05-04",
+        "소속팀": "West Ham"
+    },
+    {
+        "선수": "R. Dragusin",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-04",
+        "소속팀": "Tottenham"
+    },
+    {
+        "선수": "Son Heung-Min",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-04",
+        "소속팀": "Tottenham"
     }
 ]

@@ -1758,9 +1758,33 @@
         "소속팀": "Arsenal"
     },
     {
+        "선수": "Jorginho",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-03",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "Neto",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-03",
+        "소속팀": "Arsenal"
+    },
+    {
         "선수": "T. Tomiyasu",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-05-03",
         "소속팀": "Arsenal"
+    },
+    {
+        "선수": "L. Hall",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-04",
+        "소속팀": "Newcastle"
+    },
+    {
+        "선수": "J. Lascelles",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-04",
+        "소속팀": "Newcastle"
     }
 ]

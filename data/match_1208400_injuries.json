@@ -1836,6 +1836,12 @@
         "소속팀": "Southampton"
     },
     {
+        "선수": "P. Onuachu",
+        "부상 부위": "Questionable",
+        "부상 날짜": "2025-05-03",
+        "소속팀": "Southampton"
+    },
+    {
         "선수": "C. Taylor",
         "부상 부위": "Questionable",
         "부상 날짜": "2025-05-03",
@@ -1861,6 +1867,18 @@
     },
     {
         "선수": "K. Havertz",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-03",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "Jorginho",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-03",
+        "소속팀": "Arsenal"
+    },
+    {
+        "선수": "Neto",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-05-03",
         "소속팀": "Arsenal"

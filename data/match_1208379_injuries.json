@@ -1302,6 +1302,18 @@
         "소속팀": "Nottingham Forest"
     },
     {
+        "선수": "F. Buonanotte",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-03",
+        "소속팀": "Leicester"
+    },
+    {
+        "선수": "B. De Cordova-Reid",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-03",
+        "소속팀": "Leicester"
+    },
+    {
         "선수": "I. Fatawu",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-05-03",
@@ -1309,6 +1321,12 @@
     },
     {
         "선수": "S. Mavididi",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-03",
+        "소속팀": "Leicester"
+    },
+    {
+        "선수": "R. Pereira",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-05-03",
         "소속팀": "Leicester"
@@ -1322,12 +1340,6 @@
     {
         "선수": "H. Winks",
         "부상 부위": "Missing Fixture",
-        "부상 날짜": "2025-05-03",
-        "소속팀": "Leicester"
-    },
-    {
-        "선수": "B. De Cordova-Reid",
-        "부상 부위": "Questionable",
         "부상 날짜": "2025-05-03",
         "소속팀": "Leicester"
     }

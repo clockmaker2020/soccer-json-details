@@ -1812,6 +1812,18 @@
         "소속팀": "Bournemouth"
     },
     {
+        "선수": "F. Buonanotte",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-03",
+        "소속팀": "Leicester"
+    },
+    {
+        "선수": "B. De Cordova-Reid",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-03",
+        "소속팀": "Leicester"
+    },
+    {
         "선수": "I. Fatawu",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-05-03",
@@ -1819,6 +1831,12 @@
     },
     {
         "선수": "S. Mavididi",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-03",
+        "소속팀": "Leicester"
+    },
+    {
+        "선수": "R. Pereira",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-05-03",
         "소속팀": "Leicester"
@@ -1836,12 +1854,6 @@
         "소속팀": "Leicester"
     },
     {
-        "선수": "B. De Cordova-Reid",
-        "부상 부위": "Questionable",
-        "부상 날짜": "2025-05-03",
-        "소속팀": "Leicester"
-    },
-    {
         "선수": "R. Christie",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-05-03",
@@ -1849,6 +1861,12 @@
     },
     {
         "선수": "Evanilson",
+        "부상 부위": "Missing Fixture",
+        "부상 날짜": "2025-05-03",
+        "소속팀": "Bournemouth"
+    },
+    {
+        "선수": "L. Sinisterra",
         "부상 부위": "Missing Fixture",
         "부상 날짜": "2025-05-03",
         "소속팀": "Bournemouth"
